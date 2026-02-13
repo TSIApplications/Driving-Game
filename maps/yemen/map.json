@@ -1,0 +1,44 @@
+{
+  "country": "Yemen",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Yemen Landmark 1",
+      "type": "placeholder",
+      "x": 173,
+      "y": 313
+    },
+    {
+      "name": "Yemen Landmark 2",
+      "type": "placeholder",
+      "x": 284,
+      "y": 178
+    },
+    {
+      "name": "Yemen Landmark 3",
+      "type": "placeholder",
+      "x": 382,
+      "y": 204
+    },
+    {
+      "name": "Yemen Landmark 4",
+      "type": "placeholder",
+      "x": 252,
+      "y": 318
+    },
+    {
+      "name": "Yemen Landmark 5",
+      "type": "placeholder",
+      "x": 390,
+      "y": 299
+    }
+  ]
+}

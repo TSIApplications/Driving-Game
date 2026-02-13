@@ -1,0 +1,44 @@
+{
+  "country": "Bosnia and Herzegovina",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bosnia and Herzegovina Landmark 1",
+      "type": "placeholder",
+      "x": 316,
+      "y": 239
+    },
+    {
+      "name": "Bosnia and Herzegovina Landmark 2",
+      "type": "placeholder",
+      "x": 183,
+      "y": 276
+    },
+    {
+      "name": "Bosnia and Herzegovina Landmark 3",
+      "type": "placeholder",
+      "x": 225,
+      "y": 120
+    },
+    {
+      "name": "Bosnia and Herzegovina Landmark 4",
+      "type": "placeholder",
+      "x": 336,
+      "y": 365
+    },
+    {
+      "name": "Bosnia and Herzegovina Landmark 5",
+      "type": "placeholder",
+      "x": 353,
+      "y": 178
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Grenada",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Grenada Landmark 1",
+      "type": "placeholder",
+      "x": 145,
+      "y": 267
+    },
+    {
+      "name": "Grenada Landmark 2",
+      "type": "placeholder",
+      "x": 310,
+      "y": 132
+    },
+    {
+      "name": "Grenada Landmark 3",
+      "type": "placeholder",
+      "x": 282,
+      "y": 333
+    },
+    {
+      "name": "Grenada Landmark 4",
+      "type": "placeholder",
+      "x": 275,
+      "y": 307
+    },
+    {
+      "name": "Grenada Landmark 5",
+      "type": "placeholder",
+      "x": 194,
+      "y": 362
+    }
+  ]
+}

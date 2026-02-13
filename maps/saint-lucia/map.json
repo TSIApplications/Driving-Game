@@ -1,0 +1,44 @@
+{
+  "country": "Saint Lucia",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Saint Lucia Landmark 1",
+      "type": "placeholder",
+      "x": 311,
+      "y": 344
+    },
+    {
+      "name": "Saint Lucia Landmark 2",
+      "type": "placeholder",
+      "x": 246,
+      "y": 294
+    },
+    {
+      "name": "Saint Lucia Landmark 3",
+      "type": "placeholder",
+      "x": 208,
+      "y": 269
+    },
+    {
+      "name": "Saint Lucia Landmark 4",
+      "type": "placeholder",
+      "x": 383,
+      "y": 327
+    },
+    {
+      "name": "Saint Lucia Landmark 5",
+      "type": "placeholder",
+      "x": 274,
+      "y": 141
+    }
+  ]
+}

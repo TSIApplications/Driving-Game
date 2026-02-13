@@ -1,0 +1,44 @@
+{
+  "country": "Turkey",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Turkey Landmark 1",
+      "type": "placeholder",
+      "x": 147,
+      "y": 318
+    },
+    {
+      "name": "Turkey Landmark 2",
+      "type": "placeholder",
+      "x": 265,
+      "y": 238
+    },
+    {
+      "name": "Turkey Landmark 3",
+      "type": "placeholder",
+      "x": 379,
+      "y": 266
+    },
+    {
+      "name": "Turkey Landmark 4",
+      "type": "placeholder",
+      "x": 312,
+      "y": 272
+    },
+    {
+      "name": "Turkey Landmark 5",
+      "type": "placeholder",
+      "x": 223,
+      "y": 208
+    }
+  ]
+}

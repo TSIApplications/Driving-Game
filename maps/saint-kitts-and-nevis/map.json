@@ -1,0 +1,44 @@
+{
+  "country": "Saint Kitts and Nevis",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Saint Kitts and Nevis Landmark 1",
+      "type": "placeholder",
+      "x": 154,
+      "y": 257
+    },
+    {
+      "name": "Saint Kitts and Nevis Landmark 2",
+      "type": "placeholder",
+      "x": 158,
+      "y": 183
+    },
+    {
+      "name": "Saint Kitts and Nevis Landmark 3",
+      "type": "placeholder",
+      "x": 210,
+      "y": 372
+    },
+    {
+      "name": "Saint Kitts and Nevis Landmark 4",
+      "type": "placeholder",
+      "x": 326,
+      "y": 251
+    },
+    {
+      "name": "Saint Kitts and Nevis Landmark 5",
+      "type": "placeholder",
+      "x": 305,
+      "y": 323
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "North Macedonia",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "North Macedonia Landmark 1",
+      "type": "placeholder",
+      "x": 345,
+      "y": 252
+    },
+    {
+      "name": "North Macedonia Landmark 2",
+      "type": "placeholder",
+      "x": 254,
+      "y": 158
+    },
+    {
+      "name": "North Macedonia Landmark 3",
+      "type": "placeholder",
+      "x": 212,
+      "y": 374
+    },
+    {
+      "name": "North Macedonia Landmark 4",
+      "type": "placeholder",
+      "x": 358,
+      "y": 153
+    },
+    {
+      "name": "North Macedonia Landmark 5",
+      "type": "placeholder",
+      "x": 229,
+      "y": 307
+    }
+  ]
+}

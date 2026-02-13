@@ -1,0 +1,44 @@
+{
+  "country": "Zimbabwe",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Zimbabwe Landmark 1",
+      "type": "placeholder",
+      "x": 339,
+      "y": 153
+    },
+    {
+      "name": "Zimbabwe Landmark 2",
+      "type": "placeholder",
+      "x": 293,
+      "y": 288
+    },
+    {
+      "name": "Zimbabwe Landmark 3",
+      "type": "placeholder",
+      "x": 231,
+      "y": 204
+    },
+    {
+      "name": "Zimbabwe Landmark 4",
+      "type": "placeholder",
+      "x": 175,
+      "y": 330
+    },
+    {
+      "name": "Zimbabwe Landmark 5",
+      "type": "placeholder",
+      "x": 170,
+      "y": 340
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Lao People's Democratic Republic",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Lao People's Democratic Republic Landmark 1",
+      "type": "placeholder",
+      "x": 303,
+      "y": 143
+    },
+    {
+      "name": "Lao People's Democratic Republic Landmark 2",
+      "type": "placeholder",
+      "x": 323,
+      "y": 207
+    },
+    {
+      "name": "Lao People's Democratic Republic Landmark 3",
+      "type": "placeholder",
+      "x": 181,
+      "y": 184
+    },
+    {
+      "name": "Lao People's Democratic Republic Landmark 4",
+      "type": "placeholder",
+      "x": 365,
+      "y": 274
+    },
+    {
+      "name": "Lao People's Democratic Republic Landmark 5",
+      "type": "placeholder",
+      "x": 341,
+      "y": 240
+    }
+  ]
+}

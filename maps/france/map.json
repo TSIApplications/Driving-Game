@@ -1,0 +1,44 @@
+{
+  "country": "France",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "France Landmark 1",
+      "type": "placeholder",
+      "x": 262,
+      "y": 148
+    },
+    {
+      "name": "France Landmark 2",
+      "type": "placeholder",
+      "x": 304,
+      "y": 359
+    },
+    {
+      "name": "France Landmark 3",
+      "type": "placeholder",
+      "x": 257,
+      "y": 141
+    },
+    {
+      "name": "France Landmark 4",
+      "type": "placeholder",
+      "x": 387,
+      "y": 159
+    },
+    {
+      "name": "France Landmark 5",
+      "type": "placeholder",
+      "x": 247,
+      "y": 294
+    }
+  ]
+}

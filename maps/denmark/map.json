@@ -1,0 +1,44 @@
+{
+  "country": "Denmark",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Denmark Landmark 1",
+      "type": "placeholder",
+      "x": 337,
+      "y": 159
+    },
+    {
+      "name": "Denmark Landmark 2",
+      "type": "placeholder",
+      "x": 149,
+      "y": 237
+    },
+    {
+      "name": "Denmark Landmark 3",
+      "type": "placeholder",
+      "x": 259,
+      "y": 216
+    },
+    {
+      "name": "Denmark Landmark 4",
+      "type": "placeholder",
+      "x": 150,
+      "y": 223
+    },
+    {
+      "name": "Denmark Landmark 5",
+      "type": "placeholder",
+      "x": 178,
+      "y": 342
+    }
+  ]
+}

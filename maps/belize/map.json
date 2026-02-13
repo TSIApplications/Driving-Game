@@ -1,0 +1,44 @@
+{
+  "country": "Belize",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Belize Landmark 1",
+      "type": "placeholder",
+      "x": 253,
+      "y": 340
+    },
+    {
+      "name": "Belize Landmark 2",
+      "type": "placeholder",
+      "x": 269,
+      "y": 361
+    },
+    {
+      "name": "Belize Landmark 3",
+      "type": "placeholder",
+      "x": 200,
+      "y": 165
+    },
+    {
+      "name": "Belize Landmark 4",
+      "type": "placeholder",
+      "x": 242,
+      "y": 370
+    },
+    {
+      "name": "Belize Landmark 5",
+      "type": "placeholder",
+      "x": 228,
+      "y": 140
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Mongolia",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Mongolia Landmark 1",
+      "type": "placeholder",
+      "x": 293,
+      "y": 287
+    },
+    {
+      "name": "Mongolia Landmark 2",
+      "type": "placeholder",
+      "x": 332,
+      "y": 221
+    },
+    {
+      "name": "Mongolia Landmark 3",
+      "type": "placeholder",
+      "x": 307,
+      "y": 168
+    },
+    {
+      "name": "Mongolia Landmark 4",
+      "type": "placeholder",
+      "x": 393,
+      "y": 292
+    },
+    {
+      "name": "Mongolia Landmark 5",
+      "type": "placeholder",
+      "x": 140,
+      "y": 233
+    }
+  ]
+}

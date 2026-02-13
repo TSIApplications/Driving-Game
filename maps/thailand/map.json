@@ -1,0 +1,44 @@
+{
+  "country": "Thailand",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Thailand Landmark 1",
+      "type": "placeholder",
+      "x": 250,
+      "y": 193
+    },
+    {
+      "name": "Thailand Landmark 2",
+      "type": "placeholder",
+      "x": 370,
+      "y": 200
+    },
+    {
+      "name": "Thailand Landmark 3",
+      "type": "placeholder",
+      "x": 269,
+      "y": 298
+    },
+    {
+      "name": "Thailand Landmark 4",
+      "type": "placeholder",
+      "x": 328,
+      "y": 301
+    },
+    {
+      "name": "Thailand Landmark 5",
+      "type": "placeholder",
+      "x": 305,
+      "y": 198
+    }
+  ]
+}

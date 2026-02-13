@@ -1,0 +1,44 @@
+{
+  "country": "Peru",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Peru Landmark 1",
+      "type": "placeholder",
+      "x": 220,
+      "y": 255
+    },
+    {
+      "name": "Peru Landmark 2",
+      "type": "placeholder",
+      "x": 189,
+      "y": 283
+    },
+    {
+      "name": "Peru Landmark 3",
+      "type": "placeholder",
+      "x": 337,
+      "y": 331
+    },
+    {
+      "name": "Peru Landmark 4",
+      "type": "placeholder",
+      "x": 257,
+      "y": 323
+    },
+    {
+      "name": "Peru Landmark 5",
+      "type": "placeholder",
+      "x": 213,
+      "y": 328
+    }
+  ]
+}

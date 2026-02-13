@@ -1,0 +1,44 @@
+{
+  "country": "Algeria",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Algeria Landmark 1",
+      "type": "placeholder",
+      "x": 188,
+      "y": 346
+    },
+    {
+      "name": "Algeria Landmark 2",
+      "type": "placeholder",
+      "x": 188,
+      "y": 154
+    },
+    {
+      "name": "Algeria Landmark 3",
+      "type": "placeholder",
+      "x": 291,
+      "y": 190
+    },
+    {
+      "name": "Algeria Landmark 4",
+      "type": "placeholder",
+      "x": 300,
+      "y": 318
+    },
+    {
+      "name": "Algeria Landmark 5",
+      "type": "placeholder",
+      "x": 212,
+      "y": 144
+    }
+  ]
+}

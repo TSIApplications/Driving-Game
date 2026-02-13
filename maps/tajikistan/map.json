@@ -1,0 +1,44 @@
+{
+  "country": "Tajikistan",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Tajikistan Landmark 1",
+      "type": "placeholder",
+      "x": 146,
+      "y": 227
+    },
+    {
+      "name": "Tajikistan Landmark 2",
+      "type": "placeholder",
+      "x": 142,
+      "y": 139
+    },
+    {
+      "name": "Tajikistan Landmark 3",
+      "type": "placeholder",
+      "x": 151,
+      "y": 246
+    },
+    {
+      "name": "Tajikistan Landmark 4",
+      "type": "placeholder",
+      "x": 154,
+      "y": 326
+    },
+    {
+      "name": "Tajikistan Landmark 5",
+      "type": "placeholder",
+      "x": 199,
+      "y": 184
+    }
+  ]
+}

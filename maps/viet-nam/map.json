@@ -1,0 +1,44 @@
+{
+  "country": "Viet Nam",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Viet Nam Landmark 1",
+      "type": "placeholder",
+      "x": 248,
+      "y": 284
+    },
+    {
+      "name": "Viet Nam Landmark 2",
+      "type": "placeholder",
+      "x": 171,
+      "y": 147
+    },
+    {
+      "name": "Viet Nam Landmark 3",
+      "type": "placeholder",
+      "x": 237,
+      "y": 128
+    },
+    {
+      "name": "Viet Nam Landmark 4",
+      "type": "placeholder",
+      "x": 234,
+      "y": 261
+    },
+    {
+      "name": "Viet Nam Landmark 5",
+      "type": "placeholder",
+      "x": 233,
+      "y": 344
+    }
+  ]
+}

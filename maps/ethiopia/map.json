@@ -1,0 +1,44 @@
+{
+  "country": "Ethiopia",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Ethiopia Landmark 1",
+      "type": "placeholder",
+      "x": 265,
+      "y": 268
+    },
+    {
+      "name": "Ethiopia Landmark 2",
+      "type": "placeholder",
+      "x": 291,
+      "y": 246
+    },
+    {
+      "name": "Ethiopia Landmark 3",
+      "type": "placeholder",
+      "x": 143,
+      "y": 181
+    },
+    {
+      "name": "Ethiopia Landmark 4",
+      "type": "placeholder",
+      "x": 378,
+      "y": 219
+    },
+    {
+      "name": "Ethiopia Landmark 5",
+      "type": "placeholder",
+      "x": 144,
+      "y": 367
+    }
+  ]
+}

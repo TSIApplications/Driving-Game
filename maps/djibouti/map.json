@@ -1,0 +1,44 @@
+{
+  "country": "Djibouti",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Djibouti Landmark 1",
+      "type": "placeholder",
+      "x": 210,
+      "y": 240
+    },
+    {
+      "name": "Djibouti Landmark 2",
+      "type": "placeholder",
+      "x": 305,
+      "y": 243
+    },
+    {
+      "name": "Djibouti Landmark 3",
+      "type": "placeholder",
+      "x": 188,
+      "y": 265
+    },
+    {
+      "name": "Djibouti Landmark 4",
+      "type": "placeholder",
+      "x": 183,
+      "y": 155
+    },
+    {
+      "name": "Djibouti Landmark 5",
+      "type": "placeholder",
+      "x": 349,
+      "y": 353
+    }
+  ]
+}

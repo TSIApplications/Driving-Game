@@ -1,0 +1,44 @@
+{
+  "country": "Armenia",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Armenia Landmark 1",
+      "type": "placeholder",
+      "x": 185,
+      "y": 340
+    },
+    {
+      "name": "Armenia Landmark 2",
+      "type": "placeholder",
+      "x": 226,
+      "y": 172
+    },
+    {
+      "name": "Armenia Landmark 3",
+      "type": "placeholder",
+      "x": 395,
+      "y": 214
+    },
+    {
+      "name": "Armenia Landmark 4",
+      "type": "placeholder",
+      "x": 146,
+      "y": 317
+    },
+    {
+      "name": "Armenia Landmark 5",
+      "type": "placeholder",
+      "x": 221,
+      "y": 235
+    }
+  ]
+}

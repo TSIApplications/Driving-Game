@@ -1,0 +1,44 @@
+{
+  "country": "Ecuador",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Ecuador Landmark 1",
+      "type": "placeholder",
+      "x": 184,
+      "y": 282
+    },
+    {
+      "name": "Ecuador Landmark 2",
+      "type": "placeholder",
+      "x": 248,
+      "y": 216
+    },
+    {
+      "name": "Ecuador Landmark 3",
+      "type": "placeholder",
+      "x": 394,
+      "y": 122
+    },
+    {
+      "name": "Ecuador Landmark 4",
+      "type": "placeholder",
+      "x": 196,
+      "y": 287
+    },
+    {
+      "name": "Ecuador Landmark 5",
+      "type": "placeholder",
+      "x": 246,
+      "y": 333
+    }
+  ]
+}

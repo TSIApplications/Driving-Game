@@ -1,0 +1,44 @@
+{
+  "country": "Albania",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Albania Landmark 1",
+      "type": "placeholder",
+      "x": 166,
+      "y": 360
+    },
+    {
+      "name": "Albania Landmark 2",
+      "type": "placeholder",
+      "x": 151,
+      "y": 255
+    },
+    {
+      "name": "Albania Landmark 3",
+      "type": "placeholder",
+      "x": 219,
+      "y": 363
+    },
+    {
+      "name": "Albania Landmark 4",
+      "type": "placeholder",
+      "x": 164,
+      "y": 168
+    },
+    {
+      "name": "Albania Landmark 5",
+      "type": "placeholder",
+      "x": 173,
+      "y": 322
+    }
+  ]
+}

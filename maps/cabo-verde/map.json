@@ -1,0 +1,44 @@
+{
+  "country": "Cabo Verde",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Cabo Verde Landmark 1",
+      "type": "placeholder",
+      "x": 276,
+      "y": 151
+    },
+    {
+      "name": "Cabo Verde Landmark 2",
+      "type": "placeholder",
+      "x": 267,
+      "y": 324
+    },
+    {
+      "name": "Cabo Verde Landmark 3",
+      "type": "placeholder",
+      "x": 186,
+      "y": 205
+    },
+    {
+      "name": "Cabo Verde Landmark 4",
+      "type": "placeholder",
+      "x": 245,
+      "y": 212
+    },
+    {
+      "name": "Cabo Verde Landmark 5",
+      "type": "placeholder",
+      "x": 250,
+      "y": 288
+    }
+  ]
+}

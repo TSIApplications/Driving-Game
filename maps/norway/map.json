@@ -1,0 +1,44 @@
+{
+  "country": "Norway",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Norway Landmark 1",
+      "type": "placeholder",
+      "x": 330,
+      "y": 285
+    },
+    {
+      "name": "Norway Landmark 2",
+      "type": "placeholder",
+      "x": 214,
+      "y": 172
+    },
+    {
+      "name": "Norway Landmark 3",
+      "type": "placeholder",
+      "x": 291,
+      "y": 269
+    },
+    {
+      "name": "Norway Landmark 4",
+      "type": "placeholder",
+      "x": 141,
+      "y": 245
+    },
+    {
+      "name": "Norway Landmark 5",
+      "type": "placeholder",
+      "x": 323,
+      "y": 352
+    }
+  ]
+}

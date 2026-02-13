@@ -1,0 +1,44 @@
+{
+  "country": "Argentina",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Argentina Landmark 1",
+      "type": "placeholder",
+      "x": 374,
+      "y": 131
+    },
+    {
+      "name": "Argentina Landmark 2",
+      "type": "placeholder",
+      "x": 287,
+      "y": 246
+    },
+    {
+      "name": "Argentina Landmark 3",
+      "type": "placeholder",
+      "x": 303,
+      "y": 143
+    },
+    {
+      "name": "Argentina Landmark 4",
+      "type": "placeholder",
+      "x": 156,
+      "y": 150
+    },
+    {
+      "name": "Argentina Landmark 5",
+      "type": "placeholder",
+      "x": 366,
+      "y": 314
+    }
+  ]
+}

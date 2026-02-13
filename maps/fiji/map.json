@@ -1,0 +1,44 @@
+{
+  "country": "Fiji",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Fiji Landmark 1",
+      "type": "placeholder",
+      "x": 243,
+      "y": 276
+    },
+    {
+      "name": "Fiji Landmark 2",
+      "type": "placeholder",
+      "x": 142,
+      "y": 340
+    },
+    {
+      "name": "Fiji Landmark 3",
+      "type": "placeholder",
+      "x": 350,
+      "y": 306
+    },
+    {
+      "name": "Fiji Landmark 4",
+      "type": "placeholder",
+      "x": 228,
+      "y": 283
+    },
+    {
+      "name": "Fiji Landmark 5",
+      "type": "placeholder",
+      "x": 327,
+      "y": 221
+    }
+  ]
+}

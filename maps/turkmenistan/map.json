@@ -1,0 +1,44 @@
+{
+  "country": "Turkmenistan",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Turkmenistan Landmark 1",
+      "type": "placeholder",
+      "x": 319,
+      "y": 343
+    },
+    {
+      "name": "Turkmenistan Landmark 2",
+      "type": "placeholder",
+      "x": 340,
+      "y": 200
+    },
+    {
+      "name": "Turkmenistan Landmark 3",
+      "type": "placeholder",
+      "x": 233,
+      "y": 209
+    },
+    {
+      "name": "Turkmenistan Landmark 4",
+      "type": "placeholder",
+      "x": 367,
+      "y": 156
+    },
+    {
+      "name": "Turkmenistan Landmark 5",
+      "type": "placeholder",
+      "x": 372,
+      "y": 274
+    }
+  ]
+}

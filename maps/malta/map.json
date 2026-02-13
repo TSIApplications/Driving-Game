@@ -1,0 +1,44 @@
+{
+  "country": "Malta",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Malta Landmark 1",
+      "type": "placeholder",
+      "x": 253,
+      "y": 353
+    },
+    {
+      "name": "Malta Landmark 2",
+      "type": "placeholder",
+      "x": 375,
+      "y": 136
+    },
+    {
+      "name": "Malta Landmark 3",
+      "type": "placeholder",
+      "x": 257,
+      "y": 212
+    },
+    {
+      "name": "Malta Landmark 4",
+      "type": "placeholder",
+      "x": 270,
+      "y": 170
+    },
+    {
+      "name": "Malta Landmark 5",
+      "type": "placeholder",
+      "x": 291,
+      "y": 197
+    }
+  ]
+}

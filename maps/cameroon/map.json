@@ -1,0 +1,44 @@
+{
+  "country": "Cameroon",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Cameroon Landmark 1",
+      "type": "placeholder",
+      "x": 148,
+      "y": 208
+    },
+    {
+      "name": "Cameroon Landmark 2",
+      "type": "placeholder",
+      "x": 147,
+      "y": 362
+    },
+    {
+      "name": "Cameroon Landmark 3",
+      "type": "placeholder",
+      "x": 187,
+      "y": 225
+    },
+    {
+      "name": "Cameroon Landmark 4",
+      "type": "placeholder",
+      "x": 350,
+      "y": 321
+    },
+    {
+      "name": "Cameroon Landmark 5",
+      "type": "placeholder",
+      "x": 308,
+      "y": 274
+    }
+  ]
+}

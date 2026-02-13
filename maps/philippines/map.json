@@ -1,0 +1,44 @@
+{
+  "country": "Philippines",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Philippines Landmark 1",
+      "type": "placeholder",
+      "x": 335,
+      "y": 240
+    },
+    {
+      "name": "Philippines Landmark 2",
+      "type": "placeholder",
+      "x": 184,
+      "y": 254
+    },
+    {
+      "name": "Philippines Landmark 3",
+      "type": "placeholder",
+      "x": 356,
+      "y": 129
+    },
+    {
+      "name": "Philippines Landmark 4",
+      "type": "placeholder",
+      "x": 299,
+      "y": 183
+    },
+    {
+      "name": "Philippines Landmark 5",
+      "type": "placeholder",
+      "x": 321,
+      "y": 303
+    }
+  ]
+}

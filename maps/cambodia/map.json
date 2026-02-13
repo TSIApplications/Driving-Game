@@ -1,0 +1,44 @@
+{
+  "country": "Cambodia",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Cambodia Landmark 1",
+      "type": "placeholder",
+      "x": 152,
+      "y": 164
+    },
+    {
+      "name": "Cambodia Landmark 2",
+      "type": "placeholder",
+      "x": 316,
+      "y": 146
+    },
+    {
+      "name": "Cambodia Landmark 3",
+      "type": "placeholder",
+      "x": 185,
+      "y": 281
+    },
+    {
+      "name": "Cambodia Landmark 4",
+      "type": "placeholder",
+      "x": 269,
+      "y": 205
+    },
+    {
+      "name": "Cambodia Landmark 5",
+      "type": "placeholder",
+      "x": 197,
+      "y": 320
+    }
+  ]
+}

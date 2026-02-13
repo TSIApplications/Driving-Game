@@ -1,0 +1,44 @@
+{
+  "country": "Latvia",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Latvia Landmark 1",
+      "type": "placeholder",
+      "x": 292,
+      "y": 260
+    },
+    {
+      "name": "Latvia Landmark 2",
+      "type": "placeholder",
+      "x": 269,
+      "y": 216
+    },
+    {
+      "name": "Latvia Landmark 3",
+      "type": "placeholder",
+      "x": 323,
+      "y": 204
+    },
+    {
+      "name": "Latvia Landmark 4",
+      "type": "placeholder",
+      "x": 332,
+      "y": 149
+    },
+    {
+      "name": "Latvia Landmark 5",
+      "type": "placeholder",
+      "x": 166,
+      "y": 218
+    }
+  ]
+}

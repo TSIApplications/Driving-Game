@@ -1,0 +1,44 @@
+{
+  "country": "Gambia",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Gambia Landmark 1",
+      "type": "placeholder",
+      "x": 338,
+      "y": 350
+    },
+    {
+      "name": "Gambia Landmark 2",
+      "type": "placeholder",
+      "x": 269,
+      "y": 297
+    },
+    {
+      "name": "Gambia Landmark 3",
+      "type": "placeholder",
+      "x": 290,
+      "y": 261
+    },
+    {
+      "name": "Gambia Landmark 4",
+      "type": "placeholder",
+      "x": 142,
+      "y": 337
+    },
+    {
+      "name": "Gambia Landmark 5",
+      "type": "placeholder",
+      "x": 222,
+      "y": 287
+    }
+  ]
+}

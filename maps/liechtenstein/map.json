@@ -1,0 +1,44 @@
+{
+  "country": "Liechtenstein",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Liechtenstein Landmark 1",
+      "type": "placeholder",
+      "x": 251,
+      "y": 360
+    },
+    {
+      "name": "Liechtenstein Landmark 2",
+      "type": "placeholder",
+      "x": 268,
+      "y": 312
+    },
+    {
+      "name": "Liechtenstein Landmark 3",
+      "type": "placeholder",
+      "x": 260,
+      "y": 268
+    },
+    {
+      "name": "Liechtenstein Landmark 4",
+      "type": "placeholder",
+      "x": 284,
+      "y": 277
+    },
+    {
+      "name": "Liechtenstein Landmark 5",
+      "type": "placeholder",
+      "x": 165,
+      "y": 192
+    }
+  ]
+}

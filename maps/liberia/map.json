@@ -1,0 +1,44 @@
+{
+  "country": "Liberia",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Liberia Landmark 1",
+      "type": "placeholder",
+      "x": 341,
+      "y": 330
+    },
+    {
+      "name": "Liberia Landmark 2",
+      "type": "placeholder",
+      "x": 236,
+      "y": 197
+    },
+    {
+      "name": "Liberia Landmark 3",
+      "type": "placeholder",
+      "x": 353,
+      "y": 144
+    },
+    {
+      "name": "Liberia Landmark 4",
+      "type": "placeholder",
+      "x": 263,
+      "y": 226
+    },
+    {
+      "name": "Liberia Landmark 5",
+      "type": "placeholder",
+      "x": 246,
+      "y": 299
+    }
+  ]
+}

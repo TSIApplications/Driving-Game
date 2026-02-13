@@ -1,0 +1,44 @@
+{
+  "country": "El Salvador",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "El Salvador Landmark 1",
+      "type": "placeholder",
+      "x": 336,
+      "y": 128
+    },
+    {
+      "name": "El Salvador Landmark 2",
+      "type": "placeholder",
+      "x": 350,
+      "y": 228
+    },
+    {
+      "name": "El Salvador Landmark 3",
+      "type": "placeholder",
+      "x": 170,
+      "y": 313
+    },
+    {
+      "name": "El Salvador Landmark 4",
+      "type": "placeholder",
+      "x": 188,
+      "y": 146
+    },
+    {
+      "name": "El Salvador Landmark 5",
+      "type": "placeholder",
+      "x": 272,
+      "y": 330
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Azerbaijan",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Azerbaijan Landmark 1",
+      "type": "placeholder",
+      "x": 379,
+      "y": 289
+    },
+    {
+      "name": "Azerbaijan Landmark 2",
+      "type": "placeholder",
+      "x": 161,
+      "y": 130
+    },
+    {
+      "name": "Azerbaijan Landmark 3",
+      "type": "placeholder",
+      "x": 393,
+      "y": 354
+    },
+    {
+      "name": "Azerbaijan Landmark 4",
+      "type": "placeholder",
+      "x": 306,
+      "y": 279
+    },
+    {
+      "name": "Azerbaijan Landmark 5",
+      "type": "placeholder",
+      "x": 392,
+      "y": 342
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Republic of Korea",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Republic of Korea Landmark 1",
+      "type": "placeholder",
+      "x": 378,
+      "y": 179
+    },
+    {
+      "name": "Republic of Korea Landmark 2",
+      "type": "placeholder",
+      "x": 308,
+      "y": 346
+    },
+    {
+      "name": "Republic of Korea Landmark 3",
+      "type": "placeholder",
+      "x": 204,
+      "y": 243
+    },
+    {
+      "name": "Republic of Korea Landmark 4",
+      "type": "placeholder",
+      "x": 217,
+      "y": 275
+    },
+    {
+      "name": "Republic of Korea Landmark 5",
+      "type": "placeholder",
+      "x": 395,
+      "y": 174
+    }
+  ]
+}

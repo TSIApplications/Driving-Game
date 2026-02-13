@@ -1,0 +1,44 @@
+{
+  "country": "Sudan",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Sudan Landmark 1",
+      "type": "placeholder",
+      "x": 377,
+      "y": 224
+    },
+    {
+      "name": "Sudan Landmark 2",
+      "type": "placeholder",
+      "x": 352,
+      "y": 342
+    },
+    {
+      "name": "Sudan Landmark 3",
+      "type": "placeholder",
+      "x": 381,
+      "y": 295
+    },
+    {
+      "name": "Sudan Landmark 4",
+      "type": "placeholder",
+      "x": 227,
+      "y": 261
+    },
+    {
+      "name": "Sudan Landmark 5",
+      "type": "placeholder",
+      "x": 156,
+      "y": 262
+    }
+  ]
+}

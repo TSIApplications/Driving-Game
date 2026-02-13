@@ -1,0 +1,44 @@
+{
+  "country": "Kyrgyzstan",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Kyrgyzstan Landmark 1",
+      "type": "placeholder",
+      "x": 251,
+      "y": 144
+    },
+    {
+      "name": "Kyrgyzstan Landmark 2",
+      "type": "placeholder",
+      "x": 295,
+      "y": 360
+    },
+    {
+      "name": "Kyrgyzstan Landmark 3",
+      "type": "placeholder",
+      "x": 259,
+      "y": 302
+    },
+    {
+      "name": "Kyrgyzstan Landmark 4",
+      "type": "placeholder",
+      "x": 176,
+      "y": 245
+    },
+    {
+      "name": "Kyrgyzstan Landmark 5",
+      "type": "placeholder",
+      "x": 149,
+      "y": 185
+    }
+  ]
+}

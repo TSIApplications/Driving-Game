@@ -1,0 +1,44 @@
+{
+  "country": "Canada",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Canada Landmark 1",
+      "type": "placeholder",
+      "x": 330,
+      "y": 205
+    },
+    {
+      "name": "Canada Landmark 2",
+      "type": "placeholder",
+      "x": 379,
+      "y": 183
+    },
+    {
+      "name": "Canada Landmark 3",
+      "type": "placeholder",
+      "x": 216,
+      "y": 198
+    },
+    {
+      "name": "Canada Landmark 4",
+      "type": "placeholder",
+      "x": 248,
+      "y": 165
+    },
+    {
+      "name": "Canada Landmark 5",
+      "type": "placeholder",
+      "x": 296,
+      "y": 162
+    }
+  ]
+}

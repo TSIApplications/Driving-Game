@@ -1,0 +1,44 @@
+{
+  "country": "Timor-Leste",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Timor-Leste Landmark 1",
+      "type": "placeholder",
+      "x": 239,
+      "y": 123
+    },
+    {
+      "name": "Timor-Leste Landmark 2",
+      "type": "placeholder",
+      "x": 372,
+      "y": 191
+    },
+    {
+      "name": "Timor-Leste Landmark 3",
+      "type": "placeholder",
+      "x": 164,
+      "y": 157
+    },
+    {
+      "name": "Timor-Leste Landmark 4",
+      "type": "placeholder",
+      "x": 149,
+      "y": 343
+    },
+    {
+      "name": "Timor-Leste Landmark 5",
+      "type": "placeholder",
+      "x": 310,
+      "y": 162
+    }
+  ]
+}

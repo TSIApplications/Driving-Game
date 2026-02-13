@@ -1,0 +1,44 @@
+{
+  "country": "Tunisia",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Tunisia Landmark 1",
+      "type": "placeholder",
+      "x": 210,
+      "y": 129
+    },
+    {
+      "name": "Tunisia Landmark 2",
+      "type": "placeholder",
+      "x": 244,
+      "y": 162
+    },
+    {
+      "name": "Tunisia Landmark 3",
+      "type": "placeholder",
+      "x": 187,
+      "y": 181
+    },
+    {
+      "name": "Tunisia Landmark 4",
+      "type": "placeholder",
+      "x": 262,
+      "y": 220
+    },
+    {
+      "name": "Tunisia Landmark 5",
+      "type": "placeholder",
+      "x": 384,
+      "y": 206
+    }
+  ]
+}

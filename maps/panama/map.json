@@ -1,0 +1,44 @@
+{
+  "country": "Panama",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Panama Landmark 1",
+      "type": "placeholder",
+      "x": 335,
+      "y": 222
+    },
+    {
+      "name": "Panama Landmark 2",
+      "type": "placeholder",
+      "x": 283,
+      "y": 208
+    },
+    {
+      "name": "Panama Landmark 3",
+      "type": "placeholder",
+      "x": 158,
+      "y": 257
+    },
+    {
+      "name": "Panama Landmark 4",
+      "type": "placeholder",
+      "x": 208,
+      "y": 198
+    },
+    {
+      "name": "Panama Landmark 5",
+      "type": "placeholder",
+      "x": 308,
+      "y": 191
+    }
+  ]
+}

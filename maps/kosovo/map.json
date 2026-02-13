@@ -1,0 +1,44 @@
+{
+  "country": "Kosovo",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Kosovo Landmark 1",
+      "type": "placeholder",
+      "x": 214,
+      "y": 254
+    },
+    {
+      "name": "Kosovo Landmark 2",
+      "type": "placeholder",
+      "x": 256,
+      "y": 156
+    },
+    {
+      "name": "Kosovo Landmark 3",
+      "type": "placeholder",
+      "x": 339,
+      "y": 160
+    },
+    {
+      "name": "Kosovo Landmark 4",
+      "type": "placeholder",
+      "x": 334,
+      "y": 326
+    },
+    {
+      "name": "Kosovo Landmark 5",
+      "type": "placeholder",
+      "x": 230,
+      "y": 368
+    }
+  ]
+}

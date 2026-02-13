@@ -1,0 +1,44 @@
+{
+  "country": "Georgia",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Georgia Landmark 1",
+      "type": "placeholder",
+      "x": 210,
+      "y": 265
+    },
+    {
+      "name": "Georgia Landmark 2",
+      "type": "placeholder",
+      "x": 213,
+      "y": 153
+    },
+    {
+      "name": "Georgia Landmark 3",
+      "type": "placeholder",
+      "x": 261,
+      "y": 330
+    },
+    {
+      "name": "Georgia Landmark 4",
+      "type": "placeholder",
+      "x": 172,
+      "y": 257
+    },
+    {
+      "name": "Georgia Landmark 5",
+      "type": "placeholder",
+      "x": 287,
+      "y": 271
+    }
+  ]
+}

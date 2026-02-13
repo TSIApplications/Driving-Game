@@ -1,0 +1,44 @@
+{
+  "country": "Austria",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Austria Landmark 1",
+      "type": "placeholder",
+      "x": 341,
+      "y": 322
+    },
+    {
+      "name": "Austria Landmark 2",
+      "type": "placeholder",
+      "x": 316,
+      "y": 155
+    },
+    {
+      "name": "Austria Landmark 3",
+      "type": "placeholder",
+      "x": 281,
+      "y": 355
+    },
+    {
+      "name": "Austria Landmark 4",
+      "type": "placeholder",
+      "x": 338,
+      "y": 349
+    },
+    {
+      "name": "Austria Landmark 5",
+      "type": "placeholder",
+      "x": 224,
+      "y": 272
+    }
+  ]
+}

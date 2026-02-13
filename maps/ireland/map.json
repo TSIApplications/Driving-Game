@@ -1,0 +1,44 @@
+{
+  "country": "Ireland",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Ireland Landmark 1",
+      "type": "placeholder",
+      "x": 142,
+      "y": 311
+    },
+    {
+      "name": "Ireland Landmark 2",
+      "type": "placeholder",
+      "x": 169,
+      "y": 370
+    },
+    {
+      "name": "Ireland Landmark 3",
+      "type": "placeholder",
+      "x": 294,
+      "y": 123
+    },
+    {
+      "name": "Ireland Landmark 4",
+      "type": "placeholder",
+      "x": 241,
+      "y": 288
+    },
+    {
+      "name": "Ireland Landmark 5",
+      "type": "placeholder",
+      "x": 238,
+      "y": 155
+    }
+  ]
+}

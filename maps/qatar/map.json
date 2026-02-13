@@ -1,0 +1,44 @@
+{
+  "country": "Qatar",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Qatar Landmark 1",
+      "type": "placeholder",
+      "x": 225,
+      "y": 324
+    },
+    {
+      "name": "Qatar Landmark 2",
+      "type": "placeholder",
+      "x": 337,
+      "y": 121
+    },
+    {
+      "name": "Qatar Landmark 3",
+      "type": "placeholder",
+      "x": 219,
+      "y": 162
+    },
+    {
+      "name": "Qatar Landmark 4",
+      "type": "placeholder",
+      "x": 249,
+      "y": 196
+    },
+    {
+      "name": "Qatar Landmark 5",
+      "type": "placeholder",
+      "x": 206,
+      "y": 319
+    }
+  ]
+}

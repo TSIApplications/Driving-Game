@@ -1,0 +1,44 @@
+{
+  "country": "Congo",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Congo Landmark 1",
+      "type": "placeholder",
+      "x": 151,
+      "y": 311
+    },
+    {
+      "name": "Congo Landmark 2",
+      "type": "placeholder",
+      "x": 375,
+      "y": 141
+    },
+    {
+      "name": "Congo Landmark 3",
+      "type": "placeholder",
+      "x": 234,
+      "y": 154
+    },
+    {
+      "name": "Congo Landmark 4",
+      "type": "placeholder",
+      "x": 197,
+      "y": 326
+    },
+    {
+      "name": "Congo Landmark 5",
+      "type": "placeholder",
+      "x": 214,
+      "y": 325
+    }
+  ]
+}

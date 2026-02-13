@@ -1,0 +1,44 @@
+{
+  "country": "Luxembourg",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Luxembourg Landmark 1",
+      "type": "placeholder",
+      "x": 377,
+      "y": 238
+    },
+    {
+      "name": "Luxembourg Landmark 2",
+      "type": "placeholder",
+      "x": 381,
+      "y": 265
+    },
+    {
+      "name": "Luxembourg Landmark 3",
+      "type": "placeholder",
+      "x": 238,
+      "y": 148
+    },
+    {
+      "name": "Luxembourg Landmark 4",
+      "type": "placeholder",
+      "x": 386,
+      "y": 357
+    },
+    {
+      "name": "Luxembourg Landmark 5",
+      "type": "placeholder",
+      "x": 259,
+      "y": 354
+    }
+  ]
+}

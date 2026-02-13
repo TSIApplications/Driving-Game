@@ -1,0 +1,44 @@
+{
+  "country": "Paraguay",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Paraguay Landmark 1",
+      "type": "placeholder",
+      "x": 267,
+      "y": 300
+    },
+    {
+      "name": "Paraguay Landmark 2",
+      "type": "placeholder",
+      "x": 349,
+      "y": 241
+    },
+    {
+      "name": "Paraguay Landmark 3",
+      "type": "placeholder",
+      "x": 376,
+      "y": 218
+    },
+    {
+      "name": "Paraguay Landmark 4",
+      "type": "placeholder",
+      "x": 382,
+      "y": 185
+    },
+    {
+      "name": "Paraguay Landmark 5",
+      "type": "placeholder",
+      "x": 163,
+      "y": 146
+    }
+  ]
+}

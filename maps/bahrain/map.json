@@ -1,0 +1,44 @@
+{
+  "country": "Bahrain",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bahrain Landmark 1",
+      "type": "placeholder",
+      "x": 288,
+      "y": 298
+    },
+    {
+      "name": "Bahrain Landmark 2",
+      "type": "placeholder",
+      "x": 273,
+      "y": 275
+    },
+    {
+      "name": "Bahrain Landmark 3",
+      "type": "placeholder",
+      "x": 285,
+      "y": 180
+    },
+    {
+      "name": "Bahrain Landmark 4",
+      "type": "placeholder",
+      "x": 298,
+      "y": 164
+    },
+    {
+      "name": "Bahrain Landmark 5",
+      "type": "placeholder",
+      "x": 395,
+      "y": 226
+    }
+  ]
+}

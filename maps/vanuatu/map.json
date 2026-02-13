@@ -1,0 +1,44 @@
+{
+  "country": "Vanuatu",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Vanuatu Landmark 1",
+      "type": "placeholder",
+      "x": 337,
+      "y": 298
+    },
+    {
+      "name": "Vanuatu Landmark 2",
+      "type": "placeholder",
+      "x": 306,
+      "y": 342
+    },
+    {
+      "name": "Vanuatu Landmark 3",
+      "type": "placeholder",
+      "x": 297,
+      "y": 210
+    },
+    {
+      "name": "Vanuatu Landmark 4",
+      "type": "placeholder",
+      "x": 366,
+      "y": 130
+    },
+    {
+      "name": "Vanuatu Landmark 5",
+      "type": "placeholder",
+      "x": 173,
+      "y": 285
+    }
+  ]
+}

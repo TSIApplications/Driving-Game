@@ -1,0 +1,44 @@
+{
+  "country": "Cote d'Ivoire",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Cote d'Ivoire Landmark 1",
+      "type": "placeholder",
+      "x": 340,
+      "y": 348
+    },
+    {
+      "name": "Cote d'Ivoire Landmark 2",
+      "type": "placeholder",
+      "x": 252,
+      "y": 144
+    },
+    {
+      "name": "Cote d'Ivoire Landmark 3",
+      "type": "placeholder",
+      "x": 364,
+      "y": 232
+    },
+    {
+      "name": "Cote d'Ivoire Landmark 4",
+      "type": "placeholder",
+      "x": 249,
+      "y": 210
+    },
+    {
+      "name": "Cote d'Ivoire Landmark 5",
+      "type": "placeholder",
+      "x": 186,
+      "y": 247
+    }
+  ]
+}

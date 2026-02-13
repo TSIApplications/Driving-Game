@@ -1,0 +1,44 @@
+{
+  "country": "Egypt",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Egypt Landmark 1",
+      "type": "placeholder",
+      "x": 225,
+      "y": 244
+    },
+    {
+      "name": "Egypt Landmark 2",
+      "type": "placeholder",
+      "x": 161,
+      "y": 273
+    },
+    {
+      "name": "Egypt Landmark 3",
+      "type": "placeholder",
+      "x": 357,
+      "y": 280
+    },
+    {
+      "name": "Egypt Landmark 4",
+      "type": "placeholder",
+      "x": 212,
+      "y": 269
+    },
+    {
+      "name": "Egypt Landmark 5",
+      "type": "placeholder",
+      "x": 351,
+      "y": 249
+    }
+  ]
+}

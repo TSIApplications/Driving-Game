@@ -1,0 +1,44 @@
+{
+  "country": "Costa Rica",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Costa Rica Landmark 1",
+      "type": "placeholder",
+      "x": 366,
+      "y": 223
+    },
+    {
+      "name": "Costa Rica Landmark 2",
+      "type": "placeholder",
+      "x": 206,
+      "y": 335
+    },
+    {
+      "name": "Costa Rica Landmark 3",
+      "type": "placeholder",
+      "x": 345,
+      "y": 337
+    },
+    {
+      "name": "Costa Rica Landmark 4",
+      "type": "placeholder",
+      "x": 391,
+      "y": 160
+    },
+    {
+      "name": "Costa Rica Landmark 5",
+      "type": "placeholder",
+      "x": 264,
+      "y": 172
+    }
+  ]
+}

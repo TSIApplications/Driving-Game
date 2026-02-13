@@ -1,0 +1,44 @@
+{
+  "country": "Papua New Guinea",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Papua New Guinea Landmark 1",
+      "type": "placeholder",
+      "x": 338,
+      "y": 207
+    },
+    {
+      "name": "Papua New Guinea Landmark 2",
+      "type": "placeholder",
+      "x": 206,
+      "y": 326
+    },
+    {
+      "name": "Papua New Guinea Landmark 3",
+      "type": "placeholder",
+      "x": 318,
+      "y": 257
+    },
+    {
+      "name": "Papua New Guinea Landmark 4",
+      "type": "placeholder",
+      "x": 354,
+      "y": 247
+    },
+    {
+      "name": "Papua New Guinea Landmark 5",
+      "type": "placeholder",
+      "x": 236,
+      "y": 362
+    }
+  ]
+}

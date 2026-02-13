@@ -1,0 +1,44 @@
+{
+  "country": "Rwanda",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Rwanda Landmark 1",
+      "type": "placeholder",
+      "x": 158,
+      "y": 320
+    },
+    {
+      "name": "Rwanda Landmark 2",
+      "type": "placeholder",
+      "x": 388,
+      "y": 364
+    },
+    {
+      "name": "Rwanda Landmark 3",
+      "type": "placeholder",
+      "x": 285,
+      "y": 164
+    },
+    {
+      "name": "Rwanda Landmark 4",
+      "type": "placeholder",
+      "x": 329,
+      "y": 299
+    },
+    {
+      "name": "Rwanda Landmark 5",
+      "type": "placeholder",
+      "x": 288,
+      "y": 217
+    }
+  ]
+}

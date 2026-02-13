@@ -1,0 +1,44 @@
+{
+  "country": "Suriname",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Suriname Landmark 1",
+      "type": "placeholder",
+      "x": 317,
+      "y": 323
+    },
+    {
+      "name": "Suriname Landmark 2",
+      "type": "placeholder",
+      "x": 282,
+      "y": 292
+    },
+    {
+      "name": "Suriname Landmark 3",
+      "type": "placeholder",
+      "x": 231,
+      "y": 169
+    },
+    {
+      "name": "Suriname Landmark 4",
+      "type": "placeholder",
+      "x": 291,
+      "y": 286
+    },
+    {
+      "name": "Suriname Landmark 5",
+      "type": "placeholder",
+      "x": 228,
+      "y": 348
+    }
+  ]
+}

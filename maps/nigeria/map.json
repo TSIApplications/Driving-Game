@@ -1,0 +1,44 @@
+{
+  "country": "Nigeria",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Nigeria Landmark 1",
+      "type": "placeholder",
+      "x": 144,
+      "y": 269
+    },
+    {
+      "name": "Nigeria Landmark 2",
+      "type": "placeholder",
+      "x": 182,
+      "y": 135
+    },
+    {
+      "name": "Nigeria Landmark 3",
+      "type": "placeholder",
+      "x": 292,
+      "y": 197
+    },
+    {
+      "name": "Nigeria Landmark 4",
+      "type": "placeholder",
+      "x": 344,
+      "y": 370
+    },
+    {
+      "name": "Nigeria Landmark 5",
+      "type": "placeholder",
+      "x": 168,
+      "y": 184
+    }
+  ]
+}

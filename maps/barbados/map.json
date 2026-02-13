@@ -1,0 +1,44 @@
+{
+  "country": "Barbados",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Barbados Landmark 1",
+      "type": "placeholder",
+      "x": 282,
+      "y": 261
+    },
+    {
+      "name": "Barbados Landmark 2",
+      "type": "placeholder",
+      "x": 390,
+      "y": 353
+    },
+    {
+      "name": "Barbados Landmark 3",
+      "type": "placeholder",
+      "x": 323,
+      "y": 202
+    },
+    {
+      "name": "Barbados Landmark 4",
+      "type": "placeholder",
+      "x": 158,
+      "y": 129
+    },
+    {
+      "name": "Barbados Landmark 5",
+      "type": "placeholder",
+      "x": 158,
+      "y": 250
+    }
+  ]
+}

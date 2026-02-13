@@ -1,0 +1,44 @@
+{
+  "country": "Benin",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Benin Landmark 1",
+      "type": "placeholder",
+      "x": 245,
+      "y": 328
+    },
+    {
+      "name": "Benin Landmark 2",
+      "type": "placeholder",
+      "x": 307,
+      "y": 304
+    },
+    {
+      "name": "Benin Landmark 3",
+      "type": "placeholder",
+      "x": 216,
+      "y": 329
+    },
+    {
+      "name": "Benin Landmark 4",
+      "type": "placeholder",
+      "x": 353,
+      "y": 328
+    },
+    {
+      "name": "Benin Landmark 5",
+      "type": "placeholder",
+      "x": 286,
+      "y": 262
+    }
+  ]
+}

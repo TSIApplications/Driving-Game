@@ -1,0 +1,44 @@
+{
+  "country": "Syrian Arab Republic",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Syrian Arab Republic Landmark 1",
+      "type": "placeholder",
+      "x": 378,
+      "y": 364
+    },
+    {
+      "name": "Syrian Arab Republic Landmark 2",
+      "type": "placeholder",
+      "x": 268,
+      "y": 348
+    },
+    {
+      "name": "Syrian Arab Republic Landmark 3",
+      "type": "placeholder",
+      "x": 282,
+      "y": 289
+    },
+    {
+      "name": "Syrian Arab Republic Landmark 4",
+      "type": "placeholder",
+      "x": 318,
+      "y": 278
+    },
+    {
+      "name": "Syrian Arab Republic Landmark 5",
+      "type": "placeholder",
+      "x": 226,
+      "y": 167
+    }
+  ]
+}

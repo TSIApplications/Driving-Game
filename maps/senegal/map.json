@@ -1,0 +1,44 @@
+{
+  "country": "Senegal",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Senegal Landmark 1",
+      "type": "placeholder",
+      "x": 194,
+      "y": 198
+    },
+    {
+      "name": "Senegal Landmark 2",
+      "type": "placeholder",
+      "x": 235,
+      "y": 221
+    },
+    {
+      "name": "Senegal Landmark 3",
+      "type": "placeholder",
+      "x": 177,
+      "y": 319
+    },
+    {
+      "name": "Senegal Landmark 4",
+      "type": "placeholder",
+      "x": 231,
+      "y": 249
+    },
+    {
+      "name": "Senegal Landmark 5",
+      "type": "placeholder",
+      "x": 189,
+      "y": 233
+    }
+  ]
+}

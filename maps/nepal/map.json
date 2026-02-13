@@ -1,0 +1,44 @@
+{
+  "country": "Nepal",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Nepal Landmark 1",
+      "type": "placeholder",
+      "x": 365,
+      "y": 210
+    },
+    {
+      "name": "Nepal Landmark 2",
+      "type": "placeholder",
+      "x": 164,
+      "y": 290
+    },
+    {
+      "name": "Nepal Landmark 3",
+      "type": "placeholder",
+      "x": 360,
+      "y": 292
+    },
+    {
+      "name": "Nepal Landmark 4",
+      "type": "placeholder",
+      "x": 149,
+      "y": 350
+    },
+    {
+      "name": "Nepal Landmark 5",
+      "type": "placeholder",
+      "x": 390,
+      "y": 220
+    }
+  ]
+}

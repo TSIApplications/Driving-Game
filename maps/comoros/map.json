@@ -1,0 +1,44 @@
+{
+  "country": "Comoros",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Comoros Landmark 1",
+      "type": "placeholder",
+      "x": 372,
+      "y": 140
+    },
+    {
+      "name": "Comoros Landmark 2",
+      "type": "placeholder",
+      "x": 393,
+      "y": 300
+    },
+    {
+      "name": "Comoros Landmark 3",
+      "type": "placeholder",
+      "x": 235,
+      "y": 332
+    },
+    {
+      "name": "Comoros Landmark 4",
+      "type": "placeholder",
+      "x": 269,
+      "y": 351
+    },
+    {
+      "name": "Comoros Landmark 5",
+      "type": "placeholder",
+      "x": 217,
+      "y": 284
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Bangladesh",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bangladesh Landmark 1",
+      "type": "placeholder",
+      "x": 187,
+      "y": 149
+    },
+    {
+      "name": "Bangladesh Landmark 2",
+      "type": "placeholder",
+      "x": 211,
+      "y": 355
+    },
+    {
+      "name": "Bangladesh Landmark 3",
+      "type": "placeholder",
+      "x": 243,
+      "y": 275
+    },
+    {
+      "name": "Bangladesh Landmark 4",
+      "type": "placeholder",
+      "x": 316,
+      "y": 214
+    },
+    {
+      "name": "Bangladesh Landmark 5",
+      "type": "placeholder",
+      "x": 249,
+      "y": 263
+    }
+  ]
+}

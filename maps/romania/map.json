@@ -1,0 +1,44 @@
+{
+  "country": "Romania",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Romania Landmark 1",
+      "type": "placeholder",
+      "x": 374,
+      "y": 155
+    },
+    {
+      "name": "Romania Landmark 2",
+      "type": "placeholder",
+      "x": 254,
+      "y": 229
+    },
+    {
+      "name": "Romania Landmark 3",
+      "type": "placeholder",
+      "x": 348,
+      "y": 373
+    },
+    {
+      "name": "Romania Landmark 4",
+      "type": "placeholder",
+      "x": 218,
+      "y": 197
+    },
+    {
+      "name": "Romania Landmark 5",
+      "type": "placeholder",
+      "x": 356,
+      "y": 214
+    }
+  ]
+}

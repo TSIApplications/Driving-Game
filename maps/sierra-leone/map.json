@@ -1,0 +1,44 @@
+{
+  "country": "Sierra Leone",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Sierra Leone Landmark 1",
+      "type": "placeholder",
+      "x": 384,
+      "y": 125
+    },
+    {
+      "name": "Sierra Leone Landmark 2",
+      "type": "placeholder",
+      "x": 325,
+      "y": 261
+    },
+    {
+      "name": "Sierra Leone Landmark 3",
+      "type": "placeholder",
+      "x": 235,
+      "y": 372
+    },
+    {
+      "name": "Sierra Leone Landmark 4",
+      "type": "placeholder",
+      "x": 391,
+      "y": 125
+    },
+    {
+      "name": "Sierra Leone Landmark 5",
+      "type": "placeholder",
+      "x": 165,
+      "y": 313
+    }
+  ]
+}

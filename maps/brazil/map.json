@@ -1,0 +1,44 @@
+{
+  "country": "Brazil",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Brazil Landmark 1",
+      "type": "placeholder",
+      "x": 147,
+      "y": 366
+    },
+    {
+      "name": "Brazil Landmark 2",
+      "type": "placeholder",
+      "x": 183,
+      "y": 122
+    },
+    {
+      "name": "Brazil Landmark 3",
+      "type": "placeholder",
+      "x": 163,
+      "y": 233
+    },
+    {
+      "name": "Brazil Landmark 4",
+      "type": "placeholder",
+      "x": 351,
+      "y": 327
+    },
+    {
+      "name": "Brazil Landmark 5",
+      "type": "placeholder",
+      "x": 243,
+      "y": 346
+    }
+  ]
+}

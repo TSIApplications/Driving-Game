@@ -1,0 +1,44 @@
+{
+  "country": "Guatemala",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Guatemala Landmark 1",
+      "type": "placeholder",
+      "x": 209,
+      "y": 281
+    },
+    {
+      "name": "Guatemala Landmark 2",
+      "type": "placeholder",
+      "x": 230,
+      "y": 156
+    },
+    {
+      "name": "Guatemala Landmark 3",
+      "type": "placeholder",
+      "x": 252,
+      "y": 345
+    },
+    {
+      "name": "Guatemala Landmark 4",
+      "type": "placeholder",
+      "x": 349,
+      "y": 250
+    },
+    {
+      "name": "Guatemala Landmark 5",
+      "type": "placeholder",
+      "x": 209,
+      "y": 174
+    }
+  ]
+}

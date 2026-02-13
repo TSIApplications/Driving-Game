@@ -1,0 +1,44 @@
+{
+  "country": "Dominica",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Dominica Landmark 1",
+      "type": "placeholder",
+      "x": 330,
+      "y": 162
+    },
+    {
+      "name": "Dominica Landmark 2",
+      "type": "placeholder",
+      "x": 267,
+      "y": 206
+    },
+    {
+      "name": "Dominica Landmark 3",
+      "type": "placeholder",
+      "x": 272,
+      "y": 373
+    },
+    {
+      "name": "Dominica Landmark 4",
+      "type": "placeholder",
+      "x": 350,
+      "y": 357
+    },
+    {
+      "name": "Dominica Landmark 5",
+      "type": "placeholder",
+      "x": 372,
+      "y": 301
+    }
+  ]
+}

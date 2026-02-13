@@ -1,0 +1,44 @@
+{
+  "country": "Iran",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Iran Landmark 1",
+      "type": "placeholder",
+      "x": 164,
+      "y": 332
+    },
+    {
+      "name": "Iran Landmark 2",
+      "type": "placeholder",
+      "x": 365,
+      "y": 232
+    },
+    {
+      "name": "Iran Landmark 3",
+      "type": "placeholder",
+      "x": 258,
+      "y": 212
+    },
+    {
+      "name": "Iran Landmark 4",
+      "type": "placeholder",
+      "x": 336,
+      "y": 256
+    },
+    {
+      "name": "Iran Landmark 5",
+      "type": "placeholder",
+      "x": 206,
+      "y": 336
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Dominican Republic",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Dominican Republic Landmark 1",
+      "type": "placeholder",
+      "x": 269,
+      "y": 352
+    },
+    {
+      "name": "Dominican Republic Landmark 2",
+      "type": "placeholder",
+      "x": 272,
+      "y": 323
+    },
+    {
+      "name": "Dominican Republic Landmark 3",
+      "type": "placeholder",
+      "x": 186,
+      "y": 253
+    },
+    {
+      "name": "Dominican Republic Landmark 4",
+      "type": "placeholder",
+      "x": 267,
+      "y": 341
+    },
+    {
+      "name": "Dominican Republic Landmark 5",
+      "type": "placeholder",
+      "x": 263,
+      "y": 239
+    }
+  ]
+}

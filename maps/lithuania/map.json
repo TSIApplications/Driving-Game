@@ -1,0 +1,44 @@
+{
+  "country": "Lithuania",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Lithuania Landmark 1",
+      "type": "placeholder",
+      "x": 232,
+      "y": 251
+    },
+    {
+      "name": "Lithuania Landmark 2",
+      "type": "placeholder",
+      "x": 306,
+      "y": 169
+    },
+    {
+      "name": "Lithuania Landmark 3",
+      "type": "placeholder",
+      "x": 328,
+      "y": 346
+    },
+    {
+      "name": "Lithuania Landmark 4",
+      "type": "placeholder",
+      "x": 331,
+      "y": 374
+    },
+    {
+      "name": "Lithuania Landmark 5",
+      "type": "placeholder",
+      "x": 276,
+      "y": 214
+    }
+  ]
+}

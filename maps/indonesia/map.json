@@ -1,0 +1,44 @@
+{
+  "country": "Indonesia",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Indonesia Landmark 1",
+      "type": "placeholder",
+      "x": 359,
+      "y": 319
+    },
+    {
+      "name": "Indonesia Landmark 2",
+      "type": "placeholder",
+      "x": 214,
+      "y": 174
+    },
+    {
+      "name": "Indonesia Landmark 3",
+      "type": "placeholder",
+      "x": 356,
+      "y": 351
+    },
+    {
+      "name": "Indonesia Landmark 4",
+      "type": "placeholder",
+      "x": 207,
+      "y": 276
+    },
+    {
+      "name": "Indonesia Landmark 5",
+      "type": "placeholder",
+      "x": 209,
+      "y": 318
+    }
+  ]
+}

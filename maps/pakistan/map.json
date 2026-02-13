@@ -1,0 +1,44 @@
+{
+  "country": "Pakistan",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Pakistan Landmark 1",
+      "type": "placeholder",
+      "x": 366,
+      "y": 206
+    },
+    {
+      "name": "Pakistan Landmark 2",
+      "type": "placeholder",
+      "x": 255,
+      "y": 138
+    },
+    {
+      "name": "Pakistan Landmark 3",
+      "type": "placeholder",
+      "x": 376,
+      "y": 203
+    },
+    {
+      "name": "Pakistan Landmark 4",
+      "type": "placeholder",
+      "x": 175,
+      "y": 163
+    },
+    {
+      "name": "Pakistan Landmark 5",
+      "type": "placeholder",
+      "x": 223,
+      "y": 203
+    }
+  ]
+}

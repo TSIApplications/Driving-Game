@@ -1,0 +1,44 @@
+{
+  "country": "Sweden",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Sweden Landmark 1",
+      "type": "placeholder",
+      "x": 273,
+      "y": 174
+    },
+    {
+      "name": "Sweden Landmark 2",
+      "type": "placeholder",
+      "x": 195,
+      "y": 139
+    },
+    {
+      "name": "Sweden Landmark 3",
+      "type": "placeholder",
+      "x": 241,
+      "y": 237
+    },
+    {
+      "name": "Sweden Landmark 4",
+      "type": "placeholder",
+      "x": 277,
+      "y": 242
+    },
+    {
+      "name": "Sweden Landmark 5",
+      "type": "placeholder",
+      "x": 255,
+      "y": 323
+    }
+  ]
+}

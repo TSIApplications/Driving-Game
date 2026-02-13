@@ -1,0 +1,44 @@
+{
+  "country": "Czechia",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Czechia Landmark 1",
+      "type": "placeholder",
+      "x": 376,
+      "y": 370
+    },
+    {
+      "name": "Czechia Landmark 2",
+      "type": "placeholder",
+      "x": 290,
+      "y": 246
+    },
+    {
+      "name": "Czechia Landmark 3",
+      "type": "placeholder",
+      "x": 284,
+      "y": 146
+    },
+    {
+      "name": "Czechia Landmark 4",
+      "type": "placeholder",
+      "x": 274,
+      "y": 297
+    },
+    {
+      "name": "Czechia Landmark 5",
+      "type": "placeholder",
+      "x": 190,
+      "y": 205
+    }
+  ]
+}
