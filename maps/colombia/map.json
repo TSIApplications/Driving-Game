@@ -1,0 +1,44 @@
+{
+  "country": "Colombia",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Colombia Landmark 1",
+      "type": "placeholder",
+      "x": 247,
+      "y": 217
+    },
+    {
+      "name": "Colombia Landmark 2",
+      "type": "placeholder",
+      "x": 230,
+      "y": 339
+    },
+    {
+      "name": "Colombia Landmark 3",
+      "type": "placeholder",
+      "x": 159,
+      "y": 120
+    },
+    {
+      "name": "Colombia Landmark 4",
+      "type": "placeholder",
+      "x": 333,
+      "y": 142
+    },
+    {
+      "name": "Colombia Landmark 5",
+      "type": "placeholder",
+      "x": 167,
+      "y": 323
+    }
+  ]
+}

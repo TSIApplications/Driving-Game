@@ -1,0 +1,44 @@
+{
+  "country": "Mozambique",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Mozambique Landmark 1",
+      "type": "placeholder",
+      "x": 341,
+      "y": 125
+    },
+    {
+      "name": "Mozambique Landmark 2",
+      "type": "placeholder",
+      "x": 212,
+      "y": 158
+    },
+    {
+      "name": "Mozambique Landmark 3",
+      "type": "placeholder",
+      "x": 387,
+      "y": 148
+    },
+    {
+      "name": "Mozambique Landmark 4",
+      "type": "placeholder",
+      "x": 175,
+      "y": 304
+    },
+    {
+      "name": "Mozambique Landmark 5",
+      "type": "placeholder",
+      "x": 378,
+      "y": 303
+    }
+  ]
+}

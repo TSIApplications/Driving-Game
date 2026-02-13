@@ -1,0 +1,44 @@
+{
+  "country": "Saint Vincent and the Grenadines",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Saint Vincent and the Grenadines Landmark 1",
+      "type": "placeholder",
+      "x": 318,
+      "y": 157
+    },
+    {
+      "name": "Saint Vincent and the Grenadines Landmark 2",
+      "type": "placeholder",
+      "x": 393,
+      "y": 171
+    },
+    {
+      "name": "Saint Vincent and the Grenadines Landmark 3",
+      "type": "placeholder",
+      "x": 345,
+      "y": 203
+    },
+    {
+      "name": "Saint Vincent and the Grenadines Landmark 4",
+      "type": "placeholder",
+      "x": 158,
+      "y": 232
+    },
+    {
+      "name": "Saint Vincent and the Grenadines Landmark 5",
+      "type": "placeholder",
+      "x": 169,
+      "y": 282
+    }
+  ]
+}

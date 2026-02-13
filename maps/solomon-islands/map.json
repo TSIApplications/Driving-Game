@@ -1,0 +1,44 @@
+{
+  "country": "Solomon Islands",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Solomon Islands Landmark 1",
+      "type": "placeholder",
+      "x": 347,
+      "y": 364
+    },
+    {
+      "name": "Solomon Islands Landmark 2",
+      "type": "placeholder",
+      "x": 337,
+      "y": 261
+    },
+    {
+      "name": "Solomon Islands Landmark 3",
+      "type": "placeholder",
+      "x": 364,
+      "y": 306
+    },
+    {
+      "name": "Solomon Islands Landmark 4",
+      "type": "placeholder",
+      "x": 301,
+      "y": 120
+    },
+    {
+      "name": "Solomon Islands Landmark 5",
+      "type": "placeholder",
+      "x": 234,
+      "y": 195
+    }
+  ]
+}

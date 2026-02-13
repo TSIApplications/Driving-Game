@@ -1,0 +1,44 @@
+{
+  "country": "Finland",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Finland Landmark 1",
+      "type": "placeholder",
+      "x": 314,
+      "y": 336
+    },
+    {
+      "name": "Finland Landmark 2",
+      "type": "placeholder",
+      "x": 385,
+      "y": 169
+    },
+    {
+      "name": "Finland Landmark 3",
+      "type": "placeholder",
+      "x": 310,
+      "y": 246
+    },
+    {
+      "name": "Finland Landmark 4",
+      "type": "placeholder",
+      "x": 260,
+      "y": 211
+    },
+    {
+      "name": "Finland Landmark 5",
+      "type": "placeholder",
+      "x": 366,
+      "y": 205
+    }
+  ]
+}

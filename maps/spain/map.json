@@ -1,0 +1,44 @@
+{
+  "country": "Spain",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Spain Landmark 1",
+      "type": "placeholder",
+      "x": 282,
+      "y": 364
+    },
+    {
+      "name": "Spain Landmark 2",
+      "type": "placeholder",
+      "x": 170,
+      "y": 231
+    },
+    {
+      "name": "Spain Landmark 3",
+      "type": "placeholder",
+      "x": 215,
+      "y": 127
+    },
+    {
+      "name": "Spain Landmark 4",
+      "type": "placeholder",
+      "x": 207,
+      "y": 162
+    },
+    {
+      "name": "Spain Landmark 5",
+      "type": "placeholder",
+      "x": 152,
+      "y": 300
+    }
+  ]
+}

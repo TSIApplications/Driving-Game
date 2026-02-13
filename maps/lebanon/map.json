@@ -1,0 +1,44 @@
+{
+  "country": "Lebanon",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Lebanon Landmark 1",
+      "type": "placeholder",
+      "x": 367,
+      "y": 197
+    },
+    {
+      "name": "Lebanon Landmark 2",
+      "type": "placeholder",
+      "x": 354,
+      "y": 142
+    },
+    {
+      "name": "Lebanon Landmark 3",
+      "type": "placeholder",
+      "x": 325,
+      "y": 195
+    },
+    {
+      "name": "Lebanon Landmark 4",
+      "type": "placeholder",
+      "x": 302,
+      "y": 204
+    },
+    {
+      "name": "Lebanon Landmark 5",
+      "type": "placeholder",
+      "x": 225,
+      "y": 191
+    }
+  ]
+}

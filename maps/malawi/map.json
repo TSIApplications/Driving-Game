@@ -1,0 +1,44 @@
+{
+  "country": "Malawi",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Malawi Landmark 1",
+      "type": "placeholder",
+      "x": 237,
+      "y": 136
+    },
+    {
+      "name": "Malawi Landmark 2",
+      "type": "placeholder",
+      "x": 177,
+      "y": 325
+    },
+    {
+      "name": "Malawi Landmark 3",
+      "type": "placeholder",
+      "x": 362,
+      "y": 130
+    },
+    {
+      "name": "Malawi Landmark 4",
+      "type": "placeholder",
+      "x": 394,
+      "y": 354
+    },
+    {
+      "name": "Malawi Landmark 5",
+      "type": "placeholder",
+      "x": 314,
+      "y": 175
+    }
+  ]
+}

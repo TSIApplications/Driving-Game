@@ -1,0 +1,44 @@
+{
+  "country": "Uzbekistan",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Uzbekistan Landmark 1",
+      "type": "placeholder",
+      "x": 215,
+      "y": 314
+    },
+    {
+      "name": "Uzbekistan Landmark 2",
+      "type": "placeholder",
+      "x": 381,
+      "y": 314
+    },
+    {
+      "name": "Uzbekistan Landmark 3",
+      "type": "placeholder",
+      "x": 199,
+      "y": 181
+    },
+    {
+      "name": "Uzbekistan Landmark 4",
+      "type": "placeholder",
+      "x": 187,
+      "y": 246
+    },
+    {
+      "name": "Uzbekistan Landmark 5",
+      "type": "placeholder",
+      "x": 208,
+      "y": 291
+    }
+  ]
+}

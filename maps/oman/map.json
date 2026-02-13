@@ -1,0 +1,44 @@
+{
+  "country": "Oman",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Oman Landmark 1",
+      "type": "placeholder",
+      "x": 335,
+      "y": 326
+    },
+    {
+      "name": "Oman Landmark 2",
+      "type": "placeholder",
+      "x": 215,
+      "y": 368
+    },
+    {
+      "name": "Oman Landmark 3",
+      "type": "placeholder",
+      "x": 281,
+      "y": 301
+    },
+    {
+      "name": "Oman Landmark 4",
+      "type": "placeholder",
+      "x": 371,
+      "y": 302
+    },
+    {
+      "name": "Oman Landmark 5",
+      "type": "placeholder",
+      "x": 209,
+      "y": 332
+    }
+  ]
+}

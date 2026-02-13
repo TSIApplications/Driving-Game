@@ -1,0 +1,44 @@
+{
+  "country": "Serbia",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Serbia Landmark 1",
+      "type": "placeholder",
+      "x": 372,
+      "y": 235
+    },
+    {
+      "name": "Serbia Landmark 2",
+      "type": "placeholder",
+      "x": 296,
+      "y": 251
+    },
+    {
+      "name": "Serbia Landmark 3",
+      "type": "placeholder",
+      "x": 289,
+      "y": 238
+    },
+    {
+      "name": "Serbia Landmark 4",
+      "type": "placeholder",
+      "x": 387,
+      "y": 292
+    },
+    {
+      "name": "Serbia Landmark 5",
+      "type": "placeholder",
+      "x": 331,
+      "y": 151
+    }
+  ]
+}

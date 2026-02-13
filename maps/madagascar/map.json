@@ -1,0 +1,44 @@
+{
+  "country": "Madagascar",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Madagascar Landmark 1",
+      "type": "placeholder",
+      "x": 354,
+      "y": 248
+    },
+    {
+      "name": "Madagascar Landmark 2",
+      "type": "placeholder",
+      "x": 208,
+      "y": 220
+    },
+    {
+      "name": "Madagascar Landmark 3",
+      "type": "placeholder",
+      "x": 337,
+      "y": 364
+    },
+    {
+      "name": "Madagascar Landmark 4",
+      "type": "placeholder",
+      "x": 217,
+      "y": 352
+    },
+    {
+      "name": "Madagascar Landmark 5",
+      "type": "placeholder",
+      "x": 188,
+      "y": 260
+    }
+  ]
+}

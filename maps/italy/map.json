@@ -1,0 +1,44 @@
+{
+  "country": "Italy",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Italy Landmark 1",
+      "type": "placeholder",
+      "x": 230,
+      "y": 276
+    },
+    {
+      "name": "Italy Landmark 2",
+      "type": "placeholder",
+      "x": 386,
+      "y": 234
+    },
+    {
+      "name": "Italy Landmark 3",
+      "type": "placeholder",
+      "x": 340,
+      "y": 310
+    },
+    {
+      "name": "Italy Landmark 4",
+      "type": "placeholder",
+      "x": 247,
+      "y": 210
+    },
+    {
+      "name": "Italy Landmark 5",
+      "type": "placeholder",
+      "x": 325,
+      "y": 204
+    }
+  ]
+}

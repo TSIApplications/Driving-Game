@@ -1,0 +1,44 @@
+{
+  "country": "Estonia",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Estonia Landmark 1",
+      "type": "placeholder",
+      "x": 156,
+      "y": 294
+    },
+    {
+      "name": "Estonia Landmark 2",
+      "type": "placeholder",
+      "x": 326,
+      "y": 225
+    },
+    {
+      "name": "Estonia Landmark 3",
+      "type": "placeholder",
+      "x": 267,
+      "y": 227
+    },
+    {
+      "name": "Estonia Landmark 4",
+      "type": "placeholder",
+      "x": 308,
+      "y": 168
+    },
+    {
+      "name": "Estonia Landmark 5",
+      "type": "placeholder",
+      "x": 365,
+      "y": 157
+    }
+  ]
+}

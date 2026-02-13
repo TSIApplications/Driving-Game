@@ -1,0 +1,44 @@
+{
+  "country": "Trinidad and Tobago",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Trinidad and Tobago Landmark 1",
+      "type": "placeholder",
+      "x": 152,
+      "y": 121
+    },
+    {
+      "name": "Trinidad and Tobago Landmark 2",
+      "type": "placeholder",
+      "x": 259,
+      "y": 301
+    },
+    {
+      "name": "Trinidad and Tobago Landmark 3",
+      "type": "placeholder",
+      "x": 195,
+      "y": 191
+    },
+    {
+      "name": "Trinidad and Tobago Landmark 4",
+      "type": "placeholder",
+      "x": 168,
+      "y": 237
+    },
+    {
+      "name": "Trinidad and Tobago Landmark 5",
+      "type": "placeholder",
+      "x": 196,
+      "y": 227
+    }
+  ]
+}

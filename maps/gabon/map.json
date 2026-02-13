@@ -1,0 +1,44 @@
+{
+  "country": "Gabon",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Gabon Landmark 1",
+      "type": "placeholder",
+      "x": 266,
+      "y": 154
+    },
+    {
+      "name": "Gabon Landmark 2",
+      "type": "placeholder",
+      "x": 182,
+      "y": 240
+    },
+    {
+      "name": "Gabon Landmark 3",
+      "type": "placeholder",
+      "x": 371,
+      "y": 233
+    },
+    {
+      "name": "Gabon Landmark 4",
+      "type": "placeholder",
+      "x": 381,
+      "y": 305
+    },
+    {
+      "name": "Gabon Landmark 5",
+      "type": "placeholder",
+      "x": 321,
+      "y": 225
+    }
+  ]
+}

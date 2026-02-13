@@ -1,0 +1,44 @@
+{
+  "country": "Iceland",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Iceland Landmark 1",
+      "type": "placeholder",
+      "x": 229,
+      "y": 213
+    },
+    {
+      "name": "Iceland Landmark 2",
+      "type": "placeholder",
+      "x": 249,
+      "y": 265
+    },
+    {
+      "name": "Iceland Landmark 3",
+      "type": "placeholder",
+      "x": 213,
+      "y": 200
+    },
+    {
+      "name": "Iceland Landmark 4",
+      "type": "placeholder",
+      "x": 324,
+      "y": 282
+    },
+    {
+      "name": "Iceland Landmark 5",
+      "type": "placeholder",
+      "x": 155,
+      "y": 221
+    }
+  ]
+}

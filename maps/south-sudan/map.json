@@ -1,0 +1,44 @@
+{
+  "country": "South Sudan",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "South Sudan Landmark 1",
+      "type": "placeholder",
+      "x": 283,
+      "y": 349
+    },
+    {
+      "name": "South Sudan Landmark 2",
+      "type": "placeholder",
+      "x": 309,
+      "y": 169
+    },
+    {
+      "name": "South Sudan Landmark 3",
+      "type": "placeholder",
+      "x": 159,
+      "y": 335
+    },
+    {
+      "name": "South Sudan Landmark 4",
+      "type": "placeholder",
+      "x": 180,
+      "y": 350
+    },
+    {
+      "name": "South Sudan Landmark 5",
+      "type": "placeholder",
+      "x": 153,
+      "y": 195
+    }
+  ]
+}

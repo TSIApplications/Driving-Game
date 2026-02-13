@@ -1,0 +1,44 @@
+{
+  "country": "Somalia",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Somalia Landmark 1",
+      "type": "placeholder",
+      "x": 329,
+      "y": 125
+    },
+    {
+      "name": "Somalia Landmark 2",
+      "type": "placeholder",
+      "x": 351,
+      "y": 156
+    },
+    {
+      "name": "Somalia Landmark 3",
+      "type": "placeholder",
+      "x": 356,
+      "y": 283
+    },
+    {
+      "name": "Somalia Landmark 4",
+      "type": "placeholder",
+      "x": 363,
+      "y": 293
+    },
+    {
+      "name": "Somalia Landmark 5",
+      "type": "placeholder",
+      "x": 150,
+      "y": 248
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Mauritius",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Mauritius Landmark 1",
+      "type": "placeholder",
+      "x": 310,
+      "y": 248
+    },
+    {
+      "name": "Mauritius Landmark 2",
+      "type": "placeholder",
+      "x": 227,
+      "y": 356
+    },
+    {
+      "name": "Mauritius Landmark 3",
+      "type": "placeholder",
+      "x": 320,
+      "y": 131
+    },
+    {
+      "name": "Mauritius Landmark 4",
+      "type": "placeholder",
+      "x": 159,
+      "y": 217
+    },
+    {
+      "name": "Mauritius Landmark 5",
+      "type": "placeholder",
+      "x": 241,
+      "y": 231
+    }
+  ]
+}

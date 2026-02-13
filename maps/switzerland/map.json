@@ -1,0 +1,44 @@
+{
+  "country": "Switzerland",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Switzerland Landmark 1",
+      "type": "placeholder",
+      "x": 174,
+      "y": 237
+    },
+    {
+      "name": "Switzerland Landmark 2",
+      "type": "placeholder",
+      "x": 228,
+      "y": 169
+    },
+    {
+      "name": "Switzerland Landmark 3",
+      "type": "placeholder",
+      "x": 290,
+      "y": 335
+    },
+    {
+      "name": "Switzerland Landmark 4",
+      "type": "placeholder",
+      "x": 285,
+      "y": 184
+    },
+    {
+      "name": "Switzerland Landmark 5",
+      "type": "placeholder",
+      "x": 228,
+      "y": 266
+    }
+  ]
+}

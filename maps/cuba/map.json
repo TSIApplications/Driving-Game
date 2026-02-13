@@ -1,0 +1,44 @@
+{
+  "country": "Cuba",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Cuba Landmark 1",
+      "type": "placeholder",
+      "x": 153,
+      "y": 131
+    },
+    {
+      "name": "Cuba Landmark 2",
+      "type": "placeholder",
+      "x": 218,
+      "y": 185
+    },
+    {
+      "name": "Cuba Landmark 3",
+      "type": "placeholder",
+      "x": 142,
+      "y": 154
+    },
+    {
+      "name": "Cuba Landmark 4",
+      "type": "placeholder",
+      "x": 229,
+      "y": 360
+    },
+    {
+      "name": "Cuba Landmark 5",
+      "type": "placeholder",
+      "x": 269,
+      "y": 351
+    }
+  ]
+}

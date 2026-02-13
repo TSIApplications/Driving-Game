@@ -1,0 +1,44 @@
+{
+  "country": "Republic of Moldova",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Republic of Moldova Landmark 1",
+      "type": "placeholder",
+      "x": 318,
+      "y": 208
+    },
+    {
+      "name": "Republic of Moldova Landmark 2",
+      "type": "placeholder",
+      "x": 393,
+      "y": 358
+    },
+    {
+      "name": "Republic of Moldova Landmark 3",
+      "type": "placeholder",
+      "x": 240,
+      "y": 242
+    },
+    {
+      "name": "Republic of Moldova Landmark 4",
+      "type": "placeholder",
+      "x": 328,
+      "y": 305
+    },
+    {
+      "name": "Republic of Moldova Landmark 5",
+      "type": "placeholder",
+      "x": 309,
+      "y": 330
+    }
+  ]
+}

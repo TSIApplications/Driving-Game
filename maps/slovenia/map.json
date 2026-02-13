@@ -1,0 +1,44 @@
+{
+  "country": "Slovenia",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Slovenia Landmark 1",
+      "type": "placeholder",
+      "x": 226,
+      "y": 125
+    },
+    {
+      "name": "Slovenia Landmark 2",
+      "type": "placeholder",
+      "x": 298,
+      "y": 247
+    },
+    {
+      "name": "Slovenia Landmark 3",
+      "type": "placeholder",
+      "x": 320,
+      "y": 353
+    },
+    {
+      "name": "Slovenia Landmark 4",
+      "type": "placeholder",
+      "x": 361,
+      "y": 370
+    },
+    {
+      "name": "Slovenia Landmark 5",
+      "type": "placeholder",
+      "x": 160,
+      "y": 232
+    }
+  ]
+}

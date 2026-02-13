@@ -1,0 +1,44 @@
+{
+  "country": "New Zealand",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "New Zealand Landmark 1",
+      "type": "placeholder",
+      "x": 180,
+      "y": 272
+    },
+    {
+      "name": "New Zealand Landmark 2",
+      "type": "placeholder",
+      "x": 365,
+      "y": 229
+    },
+    {
+      "name": "New Zealand Landmark 3",
+      "type": "placeholder",
+      "x": 218,
+      "y": 198
+    },
+    {
+      "name": "New Zealand Landmark 4",
+      "type": "placeholder",
+      "x": 366,
+      "y": 294
+    },
+    {
+      "name": "New Zealand Landmark 5",
+      "type": "placeholder",
+      "x": 187,
+      "y": 288
+    }
+  ]
+}

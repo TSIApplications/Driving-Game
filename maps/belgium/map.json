@@ -1,0 +1,44 @@
+{
+  "country": "Belgium",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Belgium Landmark 1",
+      "type": "placeholder",
+      "x": 192,
+      "y": 256
+    },
+    {
+      "name": "Belgium Landmark 2",
+      "type": "placeholder",
+      "x": 205,
+      "y": 359
+    },
+    {
+      "name": "Belgium Landmark 3",
+      "type": "placeholder",
+      "x": 223,
+      "y": 339
+    },
+    {
+      "name": "Belgium Landmark 4",
+      "type": "placeholder",
+      "x": 353,
+      "y": 286
+    },
+    {
+      "name": "Belgium Landmark 5",
+      "type": "placeholder",
+      "x": 204,
+      "y": 128
+    }
+  ]
+}

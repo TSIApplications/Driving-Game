@@ -1,0 +1,44 @@
+{
+  "country": "Netherlands",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Netherlands Landmark 1",
+      "type": "placeholder",
+      "x": 198,
+      "y": 176
+    },
+    {
+      "name": "Netherlands Landmark 2",
+      "type": "placeholder",
+      "x": 248,
+      "y": 139
+    },
+    {
+      "name": "Netherlands Landmark 3",
+      "type": "placeholder",
+      "x": 350,
+      "y": 251
+    },
+    {
+      "name": "Netherlands Landmark 4",
+      "type": "placeholder",
+      "x": 360,
+      "y": 166
+    },
+    {
+      "name": "Netherlands Landmark 5",
+      "type": "placeholder",
+      "x": 327,
+      "y": 346
+    }
+  ]
+}

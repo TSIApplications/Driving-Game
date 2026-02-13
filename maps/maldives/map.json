@@ -1,0 +1,44 @@
+{
+  "country": "Maldives",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Maldives Landmark 1",
+      "type": "placeholder",
+      "x": 283,
+      "y": 301
+    },
+    {
+      "name": "Maldives Landmark 2",
+      "type": "placeholder",
+      "x": 208,
+      "y": 233
+    },
+    {
+      "name": "Maldives Landmark 3",
+      "type": "placeholder",
+      "x": 304,
+      "y": 304
+    },
+    {
+      "name": "Maldives Landmark 4",
+      "type": "placeholder",
+      "x": 328,
+      "y": 240
+    },
+    {
+      "name": "Maldives Landmark 5",
+      "type": "placeholder",
+      "x": 361,
+      "y": 319
+    }
+  ]
+}

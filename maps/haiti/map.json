@@ -1,0 +1,44 @@
+{
+  "country": "Haiti",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Haiti Landmark 1",
+      "type": "placeholder",
+      "x": 348,
+      "y": 264
+    },
+    {
+      "name": "Haiti Landmark 2",
+      "type": "placeholder",
+      "x": 324,
+      "y": 246
+    },
+    {
+      "name": "Haiti Landmark 3",
+      "type": "placeholder",
+      "x": 214,
+      "y": 179
+    },
+    {
+      "name": "Haiti Landmark 4",
+      "type": "placeholder",
+      "x": 328,
+      "y": 347
+    },
+    {
+      "name": "Haiti Landmark 5",
+      "type": "placeholder",
+      "x": 374,
+      "y": 127
+    }
+  ]
+}

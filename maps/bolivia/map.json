@@ -1,0 +1,44 @@
+{
+  "country": "Bolivia",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bolivia Landmark 1",
+      "type": "placeholder",
+      "x": 290,
+      "y": 153
+    },
+    {
+      "name": "Bolivia Landmark 2",
+      "type": "placeholder",
+      "x": 332,
+      "y": 235
+    },
+    {
+      "name": "Bolivia Landmark 3",
+      "type": "placeholder",
+      "x": 240,
+      "y": 184
+    },
+    {
+      "name": "Bolivia Landmark 4",
+      "type": "placeholder",
+      "x": 149,
+      "y": 203
+    },
+    {
+      "name": "Bolivia Landmark 5",
+      "type": "placeholder",
+      "x": 227,
+      "y": 276
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Malaysia",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Malaysia Landmark 1",
+      "type": "placeholder",
+      "x": 148,
+      "y": 189
+    },
+    {
+      "name": "Malaysia Landmark 2",
+      "type": "placeholder",
+      "x": 144,
+      "y": 142
+    },
+    {
+      "name": "Malaysia Landmark 3",
+      "type": "placeholder",
+      "x": 231,
+      "y": 127
+    },
+    {
+      "name": "Malaysia Landmark 4",
+      "type": "placeholder",
+      "x": 257,
+      "y": 255
+    },
+    {
+      "name": "Malaysia Landmark 5",
+      "type": "placeholder",
+      "x": 294,
+      "y": 194
+    }
+  ]
+}

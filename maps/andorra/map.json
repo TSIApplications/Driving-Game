@@ -1,0 +1,44 @@
+{
+  "country": "Andorra",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Andorra Landmark 1",
+      "type": "placeholder",
+      "x": 202,
+      "y": 172
+    },
+    {
+      "name": "Andorra Landmark 2",
+      "type": "placeholder",
+      "x": 151,
+      "y": 348
+    },
+    {
+      "name": "Andorra Landmark 3",
+      "type": "placeholder",
+      "x": 362,
+      "y": 144
+    },
+    {
+      "name": "Andorra Landmark 4",
+      "type": "placeholder",
+      "x": 370,
+      "y": 366
+    },
+    {
+      "name": "Andorra Landmark 5",
+      "type": "placeholder",
+      "x": 363,
+      "y": 188
+    }
+  ]
+}

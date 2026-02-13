@@ -1,0 +1,44 @@
+{
+  "country": "Ghana",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Ghana Landmark 1",
+      "type": "placeholder",
+      "x": 228,
+      "y": 170
+    },
+    {
+      "name": "Ghana Landmark 2",
+      "type": "placeholder",
+      "x": 141,
+      "y": 313
+    },
+    {
+      "name": "Ghana Landmark 3",
+      "type": "placeholder",
+      "x": 379,
+      "y": 311
+    },
+    {
+      "name": "Ghana Landmark 4",
+      "type": "placeholder",
+      "x": 188,
+      "y": 355
+    },
+    {
+      "name": "Ghana Landmark 5",
+      "type": "placeholder",
+      "x": 159,
+      "y": 303
+    }
+  ]
+}

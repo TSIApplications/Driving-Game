@@ -1,0 +1,44 @@
+{
+  "country": "Libya",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Libya Landmark 1",
+      "type": "placeholder",
+      "x": 182,
+      "y": 282
+    },
+    {
+      "name": "Libya Landmark 2",
+      "type": "placeholder",
+      "x": 392,
+      "y": 359
+    },
+    {
+      "name": "Libya Landmark 3",
+      "type": "placeholder",
+      "x": 220,
+      "y": 339
+    },
+    {
+      "name": "Libya Landmark 4",
+      "type": "placeholder",
+      "x": 211,
+      "y": 351
+    },
+    {
+      "name": "Libya Landmark 5",
+      "type": "placeholder",
+      "x": 199,
+      "y": 245
+    }
+  ]
+}

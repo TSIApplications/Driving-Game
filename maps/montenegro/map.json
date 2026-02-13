@@ -1,0 +1,44 @@
+{
+  "country": "Montenegro",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Montenegro Landmark 1",
+      "type": "placeholder",
+      "x": 262,
+      "y": 301
+    },
+    {
+      "name": "Montenegro Landmark 2",
+      "type": "placeholder",
+      "x": 291,
+      "y": 345
+    },
+    {
+      "name": "Montenegro Landmark 3",
+      "type": "placeholder",
+      "x": 321,
+      "y": 324
+    },
+    {
+      "name": "Montenegro Landmark 4",
+      "type": "placeholder",
+      "x": 175,
+      "y": 343
+    },
+    {
+      "name": "Montenegro Landmark 5",
+      "type": "placeholder",
+      "x": 296,
+      "y": 145
+    }
+  ]
+}

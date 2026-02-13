@@ -1,0 +1,44 @@
+{
+  "country": "Namibia",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Namibia Landmark 1",
+      "type": "placeholder",
+      "x": 374,
+      "y": 211
+    },
+    {
+      "name": "Namibia Landmark 2",
+      "type": "placeholder",
+      "x": 351,
+      "y": 272
+    },
+    {
+      "name": "Namibia Landmark 3",
+      "type": "placeholder",
+      "x": 212,
+      "y": 336
+    },
+    {
+      "name": "Namibia Landmark 4",
+      "type": "placeholder",
+      "x": 314,
+      "y": 259
+    },
+    {
+      "name": "Namibia Landmark 5",
+      "type": "placeholder",
+      "x": 185,
+      "y": 187
+    }
+  ]
+}

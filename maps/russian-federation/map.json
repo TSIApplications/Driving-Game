@@ -1,0 +1,44 @@
+{
+  "country": "Russian Federation",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Russian Federation Landmark 1",
+      "type": "placeholder",
+      "x": 209,
+      "y": 253
+    },
+    {
+      "name": "Russian Federation Landmark 2",
+      "type": "placeholder",
+      "x": 226,
+      "y": 256
+    },
+    {
+      "name": "Russian Federation Landmark 3",
+      "type": "placeholder",
+      "x": 141,
+      "y": 147
+    },
+    {
+      "name": "Russian Federation Landmark 4",
+      "type": "placeholder",
+      "x": 273,
+      "y": 228
+    },
+    {
+      "name": "Russian Federation Landmark 5",
+      "type": "placeholder",
+      "x": 141,
+      "y": 224
+    }
+  ]
+}

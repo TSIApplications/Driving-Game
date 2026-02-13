@@ -1,0 +1,44 @@
+{
+  "country": "United Arab Emirates",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "United Arab Emirates Landmark 1",
+      "type": "placeholder",
+      "x": 361,
+      "y": 220
+    },
+    {
+      "name": "United Arab Emirates Landmark 2",
+      "type": "placeholder",
+      "x": 285,
+      "y": 180
+    },
+    {
+      "name": "United Arab Emirates Landmark 3",
+      "type": "placeholder",
+      "x": 279,
+      "y": 265
+    },
+    {
+      "name": "United Arab Emirates Landmark 4",
+      "type": "placeholder",
+      "x": 355,
+      "y": 228
+    },
+    {
+      "name": "United Arab Emirates Landmark 5",
+      "type": "placeholder",
+      "x": 302,
+      "y": 243
+    }
+  ]
+}

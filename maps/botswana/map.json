@@ -1,0 +1,44 @@
+{
+  "country": "Botswana",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Botswana Landmark 1",
+      "type": "placeholder",
+      "x": 162,
+      "y": 234
+    },
+    {
+      "name": "Botswana Landmark 2",
+      "type": "placeholder",
+      "x": 386,
+      "y": 132
+    },
+    {
+      "name": "Botswana Landmark 3",
+      "type": "placeholder",
+      "x": 198,
+      "y": 274
+    },
+    {
+      "name": "Botswana Landmark 4",
+      "type": "placeholder",
+      "x": 373,
+      "y": 199
+    },
+    {
+      "name": "Botswana Landmark 5",
+      "type": "placeholder",
+      "x": 298,
+      "y": 244
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Palau",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Palau Landmark 1",
+      "type": "placeholder",
+      "x": 267,
+      "y": 286
+    },
+    {
+      "name": "Palau Landmark 2",
+      "type": "placeholder",
+      "x": 211,
+      "y": 235
+    },
+    {
+      "name": "Palau Landmark 3",
+      "type": "placeholder",
+      "x": 360,
+      "y": 334
+    },
+    {
+      "name": "Palau Landmark 4",
+      "type": "placeholder",
+      "x": 263,
+      "y": 328
+    },
+    {
+      "name": "Palau Landmark 5",
+      "type": "placeholder",
+      "x": 204,
+      "y": 306
+    }
+  ]
+}

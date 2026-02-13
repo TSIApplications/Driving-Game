@@ -1,0 +1,44 @@
+{
+  "country": "Eswatini",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Eswatini Landmark 1",
+      "type": "placeholder",
+      "x": 364,
+      "y": 206
+    },
+    {
+      "name": "Eswatini Landmark 2",
+      "type": "placeholder",
+      "x": 282,
+      "y": 196
+    },
+    {
+      "name": "Eswatini Landmark 3",
+      "type": "placeholder",
+      "x": 373,
+      "y": 323
+    },
+    {
+      "name": "Eswatini Landmark 4",
+      "type": "placeholder",
+      "x": 281,
+      "y": 150
+    },
+    {
+      "name": "Eswatini Landmark 5",
+      "type": "placeholder",
+      "x": 252,
+      "y": 169
+    }
+  ]
+}

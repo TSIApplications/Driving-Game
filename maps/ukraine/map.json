@@ -1,0 +1,44 @@
+{
+  "country": "Ukraine",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Ukraine Landmark 1",
+      "type": "placeholder",
+      "x": 228,
+      "y": 134
+    },
+    {
+      "name": "Ukraine Landmark 2",
+      "type": "placeholder",
+      "x": 377,
+      "y": 318
+    },
+    {
+      "name": "Ukraine Landmark 3",
+      "type": "placeholder",
+      "x": 245,
+      "y": 363
+    },
+    {
+      "name": "Ukraine Landmark 4",
+      "type": "placeholder",
+      "x": 325,
+      "y": 257
+    },
+    {
+      "name": "Ukraine Landmark 5",
+      "type": "placeholder",
+      "x": 348,
+      "y": 280
+    }
+  ]
+}

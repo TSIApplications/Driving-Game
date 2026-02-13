@@ -1,0 +1,44 @@
+{
+  "country": "Myanmar",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Myanmar Landmark 1",
+      "type": "placeholder",
+      "x": 326,
+      "y": 152
+    },
+    {
+      "name": "Myanmar Landmark 2",
+      "type": "placeholder",
+      "x": 197,
+      "y": 284
+    },
+    {
+      "name": "Myanmar Landmark 3",
+      "type": "placeholder",
+      "x": 347,
+      "y": 225
+    },
+    {
+      "name": "Myanmar Landmark 4",
+      "type": "placeholder",
+      "x": 362,
+      "y": 373
+    },
+    {
+      "name": "Myanmar Landmark 5",
+      "type": "placeholder",
+      "x": 203,
+      "y": 191
+    }
+  ]
+}

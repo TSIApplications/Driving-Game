@@ -1,0 +1,44 @@
+{
+  "country": "Samoa",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Samoa Landmark 1",
+      "type": "placeholder",
+      "x": 154,
+      "y": 287
+    },
+    {
+      "name": "Samoa Landmark 2",
+      "type": "placeholder",
+      "x": 269,
+      "y": 325
+    },
+    {
+      "name": "Samoa Landmark 3",
+      "type": "placeholder",
+      "x": 206,
+      "y": 302
+    },
+    {
+      "name": "Samoa Landmark 4",
+      "type": "placeholder",
+      "x": 353,
+      "y": 192
+    },
+    {
+      "name": "Samoa Landmark 5",
+      "type": "placeholder",
+      "x": 151,
+      "y": 299
+    }
+  ]
+}

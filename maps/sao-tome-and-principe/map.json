@@ -1,0 +1,44 @@
+{
+  "country": "Sao Tome and Principe",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Sao Tome and Principe Landmark 1",
+      "type": "placeholder",
+      "x": 270,
+      "y": 152
+    },
+    {
+      "name": "Sao Tome and Principe Landmark 2",
+      "type": "placeholder",
+      "x": 205,
+      "y": 237
+    },
+    {
+      "name": "Sao Tome and Principe Landmark 3",
+      "type": "placeholder",
+      "x": 267,
+      "y": 319
+    },
+    {
+      "name": "Sao Tome and Principe Landmark 4",
+      "type": "placeholder",
+      "x": 226,
+      "y": 349
+    },
+    {
+      "name": "Sao Tome and Principe Landmark 5",
+      "type": "placeholder",
+      "x": 198,
+      "y": 241
+    }
+  ]
+}

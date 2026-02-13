@@ -1,0 +1,44 @@
+{
+  "country": "Uganda",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Uganda Landmark 1",
+      "type": "placeholder",
+      "x": 277,
+      "y": 181
+    },
+    {
+      "name": "Uganda Landmark 2",
+      "type": "placeholder",
+      "x": 223,
+      "y": 253
+    },
+    {
+      "name": "Uganda Landmark 3",
+      "type": "placeholder",
+      "x": 239,
+      "y": 308
+    },
+    {
+      "name": "Uganda Landmark 4",
+      "type": "placeholder",
+      "x": 357,
+      "y": 292
+    },
+    {
+      "name": "Uganda Landmark 5",
+      "type": "placeholder",
+      "x": 300,
+      "y": 327
+    }
+  ]
+}

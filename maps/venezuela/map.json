@@ -1,0 +1,44 @@
+{
+  "country": "Venezuela",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Venezuela Landmark 1",
+      "type": "placeholder",
+      "x": 142,
+      "y": 134
+    },
+    {
+      "name": "Venezuela Landmark 2",
+      "type": "placeholder",
+      "x": 207,
+      "y": 259
+    },
+    {
+      "name": "Venezuela Landmark 3",
+      "type": "placeholder",
+      "x": 315,
+      "y": 315
+    },
+    {
+      "name": "Venezuela Landmark 4",
+      "type": "placeholder",
+      "x": 307,
+      "y": 254
+    },
+    {
+      "name": "Venezuela Landmark 5",
+      "type": "placeholder",
+      "x": 166,
+      "y": 354
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Bhutan",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bhutan Landmark 1",
+      "type": "placeholder",
+      "x": 356,
+      "y": 257
+    },
+    {
+      "name": "Bhutan Landmark 2",
+      "type": "placeholder",
+      "x": 366,
+      "y": 143
+    },
+    {
+      "name": "Bhutan Landmark 3",
+      "type": "placeholder",
+      "x": 182,
+      "y": 153
+    },
+    {
+      "name": "Bhutan Landmark 4",
+      "type": "placeholder",
+      "x": 166,
+      "y": 149
+    },
+    {
+      "name": "Bhutan Landmark 5",
+      "type": "placeholder",
+      "x": 380,
+      "y": 271
+    }
+  ]
+}

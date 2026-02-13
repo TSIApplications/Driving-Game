@@ -1,0 +1,44 @@
+{
+  "country": "Jordan",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Jordan Landmark 1",
+      "type": "placeholder",
+      "x": 372,
+      "y": 311
+    },
+    {
+      "name": "Jordan Landmark 2",
+      "type": "placeholder",
+      "x": 365,
+      "y": 357
+    },
+    {
+      "name": "Jordan Landmark 3",
+      "type": "placeholder",
+      "x": 245,
+      "y": 173
+    },
+    {
+      "name": "Jordan Landmark 4",
+      "type": "placeholder",
+      "x": 156,
+      "y": 207
+    },
+    {
+      "name": "Jordan Landmark 5",
+      "type": "placeholder",
+      "x": 152,
+      "y": 357
+    }
+  ]
+}

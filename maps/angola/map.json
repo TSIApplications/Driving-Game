@@ -1,0 +1,44 @@
+{
+  "country": "Angola",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Angola Landmark 1",
+      "type": "placeholder",
+      "x": 174,
+      "y": 305
+    },
+    {
+      "name": "Angola Landmark 2",
+      "type": "placeholder",
+      "x": 241,
+      "y": 170
+    },
+    {
+      "name": "Angola Landmark 3",
+      "type": "placeholder",
+      "x": 269,
+      "y": 241
+    },
+    {
+      "name": "Angola Landmark 4",
+      "type": "placeholder",
+      "x": 198,
+      "y": 351
+    },
+    {
+      "name": "Angola Landmark 5",
+      "type": "placeholder",
+      "x": 306,
+      "y": 256
+    }
+  ]
+}

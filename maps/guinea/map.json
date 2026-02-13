@@ -1,0 +1,44 @@
+{
+  "country": "Guinea",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Guinea Landmark 1",
+      "type": "placeholder",
+      "x": 361,
+      "y": 209
+    },
+    {
+      "name": "Guinea Landmark 2",
+      "type": "placeholder",
+      "x": 169,
+      "y": 239
+    },
+    {
+      "name": "Guinea Landmark 3",
+      "type": "placeholder",
+      "x": 374,
+      "y": 203
+    },
+    {
+      "name": "Guinea Landmark 4",
+      "type": "placeholder",
+      "x": 359,
+      "y": 131
+    },
+    {
+      "name": "Guinea Landmark 5",
+      "type": "placeholder",
+      "x": 280,
+      "y": 281
+    }
+  ]
+}

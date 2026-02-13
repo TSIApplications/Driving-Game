@@ -1,0 +1,44 @@
+{
+  "country": "India",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "India Landmark 1",
+      "type": "placeholder",
+      "x": 311,
+      "y": 329
+    },
+    {
+      "name": "India Landmark 2",
+      "type": "placeholder",
+      "x": 213,
+      "y": 153
+    },
+    {
+      "name": "India Landmark 3",
+      "type": "placeholder",
+      "x": 209,
+      "y": 177
+    },
+    {
+      "name": "India Landmark 4",
+      "type": "placeholder",
+      "x": 357,
+      "y": 362
+    },
+    {
+      "name": "India Landmark 5",
+      "type": "placeholder",
+      "x": 174,
+      "y": 330
+    }
+  ]
+}

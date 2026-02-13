@@ -1,0 +1,44 @@
+{
+  "country": "Honduras",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Honduras Landmark 1",
+      "type": "placeholder",
+      "x": 323,
+      "y": 275
+    },
+    {
+      "name": "Honduras Landmark 2",
+      "type": "placeholder",
+      "x": 235,
+      "y": 271
+    },
+    {
+      "name": "Honduras Landmark 3",
+      "type": "placeholder",
+      "x": 328,
+      "y": 223
+    },
+    {
+      "name": "Honduras Landmark 4",
+      "type": "placeholder",
+      "x": 303,
+      "y": 130
+    },
+    {
+      "name": "Honduras Landmark 5",
+      "type": "placeholder",
+      "x": 244,
+      "y": 348
+    }
+  ]
+}

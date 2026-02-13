@@ -1,0 +1,44 @@
+{
+  "country": "Equatorial Guinea",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Equatorial Guinea Landmark 1",
+      "type": "placeholder",
+      "x": 277,
+      "y": 268
+    },
+    {
+      "name": "Equatorial Guinea Landmark 2",
+      "type": "placeholder",
+      "x": 244,
+      "y": 240
+    },
+    {
+      "name": "Equatorial Guinea Landmark 3",
+      "type": "placeholder",
+      "x": 207,
+      "y": 283
+    },
+    {
+      "name": "Equatorial Guinea Landmark 4",
+      "type": "placeholder",
+      "x": 271,
+      "y": 238
+    },
+    {
+      "name": "Equatorial Guinea Landmark 5",
+      "type": "placeholder",
+      "x": 371,
+      "y": 131
+    }
+  ]
+}

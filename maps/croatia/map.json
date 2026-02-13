@@ -1,0 +1,44 @@
+{
+  "country": "Croatia",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Croatia Landmark 1",
+      "type": "placeholder",
+      "x": 255,
+      "y": 160
+    },
+    {
+      "name": "Croatia Landmark 2",
+      "type": "placeholder",
+      "x": 351,
+      "y": 368
+    },
+    {
+      "name": "Croatia Landmark 3",
+      "type": "placeholder",
+      "x": 181,
+      "y": 303
+    },
+    {
+      "name": "Croatia Landmark 4",
+      "type": "placeholder",
+      "x": 319,
+      "y": 184
+    },
+    {
+      "name": "Croatia Landmark 5",
+      "type": "placeholder",
+      "x": 234,
+      "y": 255
+    }
+  ]
+}

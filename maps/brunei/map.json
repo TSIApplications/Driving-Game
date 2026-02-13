@@ -1,0 +1,44 @@
+{
+  "country": "Brunei",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Brunei Landmark 1",
+      "type": "placeholder",
+      "x": 293,
+      "y": 355
+    },
+    {
+      "name": "Brunei Landmark 2",
+      "type": "placeholder",
+      "x": 387,
+      "y": 337
+    },
+    {
+      "name": "Brunei Landmark 3",
+      "type": "placeholder",
+      "x": 158,
+      "y": 120
+    },
+    {
+      "name": "Brunei Landmark 4",
+      "type": "placeholder",
+      "x": 236,
+      "y": 132
+    },
+    {
+      "name": "Brunei Landmark 5",
+      "type": "placeholder",
+      "x": 312,
+      "y": 366
+    }
+  ]
+}

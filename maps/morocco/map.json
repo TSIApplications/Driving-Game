@@ -1,0 +1,44 @@
+{
+  "country": "Morocco",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Morocco Landmark 1",
+      "type": "placeholder",
+      "x": 322,
+      "y": 237
+    },
+    {
+      "name": "Morocco Landmark 2",
+      "type": "placeholder",
+      "x": 385,
+      "y": 343
+    },
+    {
+      "name": "Morocco Landmark 3",
+      "type": "placeholder",
+      "x": 235,
+      "y": 350
+    },
+    {
+      "name": "Morocco Landmark 4",
+      "type": "placeholder",
+      "x": 281,
+      "y": 281
+    },
+    {
+      "name": "Morocco Landmark 5",
+      "type": "placeholder",
+      "x": 261,
+      "y": 363
+    }
+  ]
+}

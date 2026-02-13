@@ -1,0 +1,44 @@
+{
+  "country": "China",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "China Landmark 1",
+      "type": "placeholder",
+      "x": 156,
+      "y": 187
+    },
+    {
+      "name": "China Landmark 2",
+      "type": "placeholder",
+      "x": 244,
+      "y": 161
+    },
+    {
+      "name": "China Landmark 3",
+      "type": "placeholder",
+      "x": 143,
+      "y": 167
+    },
+    {
+      "name": "China Landmark 4",
+      "type": "placeholder",
+      "x": 194,
+      "y": 146
+    },
+    {
+      "name": "China Landmark 5",
+      "type": "placeholder",
+      "x": 201,
+      "y": 349
+    }
+  ]
+}

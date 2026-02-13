@@ -1,0 +1,44 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Democratic Republic of the Congo Landmark 1",
+      "type": "placeholder",
+      "x": 149,
+      "y": 260
+    },
+    {
+      "name": "Democratic Republic of the Congo Landmark 2",
+      "type": "placeholder",
+      "x": 240,
+      "y": 156
+    },
+    {
+      "name": "Democratic Republic of the Congo Landmark 3",
+      "type": "placeholder",
+      "x": 225,
+      "y": 242
+    },
+    {
+      "name": "Democratic Republic of the Congo Landmark 4",
+      "type": "placeholder",
+      "x": 260,
+      "y": 137
+    },
+    {
+      "name": "Democratic Republic of the Congo Landmark 5",
+      "type": "placeholder",
+      "x": 394,
+      "y": 196
+    }
+  ]
+}

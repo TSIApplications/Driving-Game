@@ -1,0 +1,44 @@
+{
+  "country": "Hungary",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Hungary Landmark 1",
+      "type": "placeholder",
+      "x": 220,
+      "y": 195
+    },
+    {
+      "name": "Hungary Landmark 2",
+      "type": "placeholder",
+      "x": 367,
+      "y": 128
+    },
+    {
+      "name": "Hungary Landmark 3",
+      "type": "placeholder",
+      "x": 219,
+      "y": 188
+    },
+    {
+      "name": "Hungary Landmark 4",
+      "type": "placeholder",
+      "x": 351,
+      "y": 351
+    },
+    {
+      "name": "Hungary Landmark 5",
+      "type": "placeholder",
+      "x": 378,
+      "y": 283
+    }
+  ]
+}

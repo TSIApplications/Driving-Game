@@ -1,0 +1,44 @@
+{
+  "country": "Tonga",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Tonga Landmark 1",
+      "type": "placeholder",
+      "x": 189,
+      "y": 131
+    },
+    {
+      "name": "Tonga Landmark 2",
+      "type": "placeholder",
+      "x": 335,
+      "y": 157
+    },
+    {
+      "name": "Tonga Landmark 3",
+      "type": "placeholder",
+      "x": 149,
+      "y": 241
+    },
+    {
+      "name": "Tonga Landmark 4",
+      "type": "placeholder",
+      "x": 259,
+      "y": 235
+    },
+    {
+      "name": "Tonga Landmark 5",
+      "type": "placeholder",
+      "x": 140,
+      "y": 122
+    }
+  ]
+}

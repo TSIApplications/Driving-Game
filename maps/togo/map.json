@@ -1,0 +1,44 @@
+{
+  "country": "Togo",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Togo Landmark 1",
+      "type": "placeholder",
+      "x": 204,
+      "y": 248
+    },
+    {
+      "name": "Togo Landmark 2",
+      "type": "placeholder",
+      "x": 192,
+      "y": 182
+    },
+    {
+      "name": "Togo Landmark 3",
+      "type": "placeholder",
+      "x": 364,
+      "y": 374
+    },
+    {
+      "name": "Togo Landmark 4",
+      "type": "placeholder",
+      "x": 185,
+      "y": 315
+    },
+    {
+      "name": "Togo Landmark 5",
+      "type": "placeholder",
+      "x": 244,
+      "y": 223
+    }
+  ]
+}

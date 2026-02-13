@@ -1,0 +1,44 @@
+{
+  "country": "Lesotho",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Lesotho Landmark 1",
+      "type": "placeholder",
+      "x": 232,
+      "y": 166
+    },
+    {
+      "name": "Lesotho Landmark 2",
+      "type": "placeholder",
+      "x": 211,
+      "y": 189
+    },
+    {
+      "name": "Lesotho Landmark 3",
+      "type": "placeholder",
+      "x": 338,
+      "y": 128
+    },
+    {
+      "name": "Lesotho Landmark 4",
+      "type": "placeholder",
+      "x": 355,
+      "y": 145
+    },
+    {
+      "name": "Lesotho Landmark 5",
+      "type": "placeholder",
+      "x": 342,
+      "y": 302
+    }
+  ]
+}

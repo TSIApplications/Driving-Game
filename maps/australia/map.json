@@ -1,0 +1,44 @@
+{
+  "country": "Australia",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Australia Landmark 1",
+      "type": "placeholder",
+      "x": 333,
+      "y": 359
+    },
+    {
+      "name": "Australia Landmark 2",
+      "type": "placeholder",
+      "x": 204,
+      "y": 326
+    },
+    {
+      "name": "Australia Landmark 3",
+      "type": "placeholder",
+      "x": 144,
+      "y": 252
+    },
+    {
+      "name": "Australia Landmark 4",
+      "type": "placeholder",
+      "x": 338,
+      "y": 272
+    },
+    {
+      "name": "Australia Landmark 5",
+      "type": "placeholder",
+      "x": 375,
+      "y": 195
+    }
+  ]
+}

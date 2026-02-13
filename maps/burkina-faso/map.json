@@ -1,0 +1,44 @@
+{
+  "country": "Burkina Faso",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Burkina Faso Landmark 1",
+      "type": "placeholder",
+      "x": 305,
+      "y": 220
+    },
+    {
+      "name": "Burkina Faso Landmark 2",
+      "type": "placeholder",
+      "x": 195,
+      "y": 146
+    },
+    {
+      "name": "Burkina Faso Landmark 3",
+      "type": "placeholder",
+      "x": 332,
+      "y": 362
+    },
+    {
+      "name": "Burkina Faso Landmark 4",
+      "type": "placeholder",
+      "x": 196,
+      "y": 184
+    },
+    {
+      "name": "Burkina Faso Landmark 5",
+      "type": "placeholder",
+      "x": 328,
+      "y": 238
+    }
+  ]
+}

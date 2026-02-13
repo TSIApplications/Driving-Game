@@ -1,0 +1,44 @@
+{
+  "country": "Japan",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Japan Landmark 1",
+      "type": "placeholder",
+      "x": 240,
+      "y": 234
+    },
+    {
+      "name": "Japan Landmark 2",
+      "type": "placeholder",
+      "x": 288,
+      "y": 176
+    },
+    {
+      "name": "Japan Landmark 3",
+      "type": "placeholder",
+      "x": 199,
+      "y": 164
+    },
+    {
+      "name": "Japan Landmark 4",
+      "type": "placeholder",
+      "x": 328,
+      "y": 156
+    },
+    {
+      "name": "Japan Landmark 5",
+      "type": "placeholder",
+      "x": 317,
+      "y": 263
+    }
+  ]
+}

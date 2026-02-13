@@ -1,0 +1,44 @@
+{
+  "country": "Cyprus",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Cyprus Landmark 1",
+      "type": "placeholder",
+      "x": 235,
+      "y": 137
+    },
+    {
+      "name": "Cyprus Landmark 2",
+      "type": "placeholder",
+      "x": 238,
+      "y": 317
+    },
+    {
+      "name": "Cyprus Landmark 3",
+      "type": "placeholder",
+      "x": 266,
+      "y": 327
+    },
+    {
+      "name": "Cyprus Landmark 4",
+      "type": "placeholder",
+      "x": 293,
+      "y": 249
+    },
+    {
+      "name": "Cyprus Landmark 5",
+      "type": "placeholder",
+      "x": 284,
+      "y": 332
+    }
+  ]
+}

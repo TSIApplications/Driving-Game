@@ -1,0 +1,44 @@
+{
+  "country": "Marshall Islands",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Marshall Islands Landmark 1",
+      "type": "placeholder",
+      "x": 394,
+      "y": 171
+    },
+    {
+      "name": "Marshall Islands Landmark 2",
+      "type": "placeholder",
+      "x": 341,
+      "y": 157
+    },
+    {
+      "name": "Marshall Islands Landmark 3",
+      "type": "placeholder",
+      "x": 346,
+      "y": 154
+    },
+    {
+      "name": "Marshall Islands Landmark 4",
+      "type": "placeholder",
+      "x": 150,
+      "y": 131
+    },
+    {
+      "name": "Marshall Islands Landmark 5",
+      "type": "placeholder",
+      "x": 264,
+      "y": 261
+    }
+  ]
+}

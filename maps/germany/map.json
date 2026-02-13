@@ -1,0 +1,44 @@
+{
+  "country": "Germany",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Germany Landmark 1",
+      "type": "placeholder",
+      "x": 268,
+      "y": 339
+    },
+    {
+      "name": "Germany Landmark 2",
+      "type": "placeholder",
+      "x": 216,
+      "y": 325
+    },
+    {
+      "name": "Germany Landmark 3",
+      "type": "placeholder",
+      "x": 342,
+      "y": 136
+    },
+    {
+      "name": "Germany Landmark 4",
+      "type": "placeholder",
+      "x": 249,
+      "y": 175
+    },
+    {
+      "name": "Germany Landmark 5",
+      "type": "placeholder",
+      "x": 325,
+      "y": 152
+    }
+  ]
+}

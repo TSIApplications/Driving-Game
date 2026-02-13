@@ -1,0 +1,44 @@
+{
+  "country": "Niger",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Niger Landmark 1",
+      "type": "placeholder",
+      "x": 184,
+      "y": 310
+    },
+    {
+      "name": "Niger Landmark 2",
+      "type": "placeholder",
+      "x": 328,
+      "y": 204
+    },
+    {
+      "name": "Niger Landmark 3",
+      "type": "placeholder",
+      "x": 171,
+      "y": 272
+    },
+    {
+      "name": "Niger Landmark 4",
+      "type": "placeholder",
+      "x": 339,
+      "y": 287
+    },
+    {
+      "name": "Niger Landmark 5",
+      "type": "placeholder",
+      "x": 176,
+      "y": 234
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Eritrea",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Eritrea Landmark 1",
+      "type": "placeholder",
+      "x": 141,
+      "y": 308
+    },
+    {
+      "name": "Eritrea Landmark 2",
+      "type": "placeholder",
+      "x": 204,
+      "y": 129
+    },
+    {
+      "name": "Eritrea Landmark 3",
+      "type": "placeholder",
+      "x": 197,
+      "y": 120
+    },
+    {
+      "name": "Eritrea Landmark 4",
+      "type": "placeholder",
+      "x": 271,
+      "y": 287
+    },
+    {
+      "name": "Eritrea Landmark 5",
+      "type": "placeholder",
+      "x": 233,
+      "y": 122
+    }
+  ]
+}

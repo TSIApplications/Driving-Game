@@ -1,0 +1,44 @@
+{
+  "country": "Tuvalu",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Tuvalu Landmark 1",
+      "type": "placeholder",
+      "x": 188,
+      "y": 297
+    },
+    {
+      "name": "Tuvalu Landmark 2",
+      "type": "placeholder",
+      "x": 395,
+      "y": 274
+    },
+    {
+      "name": "Tuvalu Landmark 3",
+      "type": "placeholder",
+      "x": 378,
+      "y": 355
+    },
+    {
+      "name": "Tuvalu Landmark 4",
+      "type": "placeholder",
+      "x": 301,
+      "y": 226
+    },
+    {
+      "name": "Tuvalu Landmark 5",
+      "type": "placeholder",
+      "x": 329,
+      "y": 222
+    }
+  ]
+}

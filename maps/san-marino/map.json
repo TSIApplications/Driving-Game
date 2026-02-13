@@ -1,0 +1,44 @@
+{
+  "country": "San Marino",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "San Marino Landmark 1",
+      "type": "placeholder",
+      "x": 175,
+      "y": 124
+    },
+    {
+      "name": "San Marino Landmark 2",
+      "type": "placeholder",
+      "x": 220,
+      "y": 282
+    },
+    {
+      "name": "San Marino Landmark 3",
+      "type": "placeholder",
+      "x": 213,
+      "y": 277
+    },
+    {
+      "name": "San Marino Landmark 4",
+      "type": "placeholder",
+      "x": 394,
+      "y": 277
+    },
+    {
+      "name": "San Marino Landmark 5",
+      "type": "placeholder",
+      "x": 243,
+      "y": 161
+    }
+  ]
+}

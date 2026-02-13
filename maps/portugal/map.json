@@ -1,0 +1,44 @@
+{
+  "country": "Portugal",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Portugal Landmark 1",
+      "type": "placeholder",
+      "x": 216,
+      "y": 245
+    },
+    {
+      "name": "Portugal Landmark 2",
+      "type": "placeholder",
+      "x": 366,
+      "y": 315
+    },
+    {
+      "name": "Portugal Landmark 3",
+      "type": "placeholder",
+      "x": 358,
+      "y": 229
+    },
+    {
+      "name": "Portugal Landmark 4",
+      "type": "placeholder",
+      "x": 332,
+      "y": 294
+    },
+    {
+      "name": "Portugal Landmark 5",
+      "type": "placeholder",
+      "x": 283,
+      "y": 277
+    }
+  ]
+}

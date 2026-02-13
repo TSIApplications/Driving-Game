@@ -1,0 +1,44 @@
+{
+  "country": "Greece",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Greece Landmark 1",
+      "type": "placeholder",
+      "x": 296,
+      "y": 267
+    },
+    {
+      "name": "Greece Landmark 2",
+      "type": "placeholder",
+      "x": 313,
+      "y": 187
+    },
+    {
+      "name": "Greece Landmark 3",
+      "type": "placeholder",
+      "x": 287,
+      "y": 235
+    },
+    {
+      "name": "Greece Landmark 4",
+      "type": "placeholder",
+      "x": 320,
+      "y": 358
+    },
+    {
+      "name": "Greece Landmark 5",
+      "type": "placeholder",
+      "x": 193,
+      "y": 351
+    }
+  ]
+}

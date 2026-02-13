@@ -1,0 +1,44 @@
+{
+  "country": "Mauritania",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Mauritania Landmark 1",
+      "type": "placeholder",
+      "x": 331,
+      "y": 296
+    },
+    {
+      "name": "Mauritania Landmark 2",
+      "type": "placeholder",
+      "x": 340,
+      "y": 331
+    },
+    {
+      "name": "Mauritania Landmark 3",
+      "type": "placeholder",
+      "x": 251,
+      "y": 194
+    },
+    {
+      "name": "Mauritania Landmark 4",
+      "type": "placeholder",
+      "x": 310,
+      "y": 252
+    },
+    {
+      "name": "Mauritania Landmark 5",
+      "type": "placeholder",
+      "x": 158,
+      "y": 264
+    }
+  ]
+}

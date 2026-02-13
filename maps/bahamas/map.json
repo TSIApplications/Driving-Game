@@ -1,0 +1,44 @@
+{
+  "country": "Bahamas",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bahamas Landmark 1",
+      "type": "placeholder",
+      "x": 228,
+      "y": 369
+    },
+    {
+      "name": "Bahamas Landmark 2",
+      "type": "placeholder",
+      "x": 166,
+      "y": 162
+    },
+    {
+      "name": "Bahamas Landmark 3",
+      "type": "placeholder",
+      "x": 379,
+      "y": 373
+    },
+    {
+      "name": "Bahamas Landmark 4",
+      "type": "placeholder",
+      "x": 250,
+      "y": 133
+    },
+    {
+      "name": "Bahamas Landmark 5",
+      "type": "placeholder",
+      "x": 166,
+      "y": 178
+    }
+  ]
+}

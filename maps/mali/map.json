@@ -1,0 +1,44 @@
+{
+  "country": "Mali",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Mali Landmark 1",
+      "type": "placeholder",
+      "x": 378,
+      "y": 207
+    },
+    {
+      "name": "Mali Landmark 2",
+      "type": "placeholder",
+      "x": 173,
+      "y": 285
+    },
+    {
+      "name": "Mali Landmark 3",
+      "type": "placeholder",
+      "x": 306,
+      "y": 131
+    },
+    {
+      "name": "Mali Landmark 4",
+      "type": "placeholder",
+      "x": 258,
+      "y": 157
+    },
+    {
+      "name": "Mali Landmark 5",
+      "type": "placeholder",
+      "x": 247,
+      "y": 304
+    }
+  ]
+}

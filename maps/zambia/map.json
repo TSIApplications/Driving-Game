@@ -1,0 +1,44 @@
+{
+  "country": "Zambia",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Zambia Landmark 1",
+      "type": "placeholder",
+      "x": 321,
+      "y": 369
+    },
+    {
+      "name": "Zambia Landmark 2",
+      "type": "placeholder",
+      "x": 174,
+      "y": 146
+    },
+    {
+      "name": "Zambia Landmark 3",
+      "type": "placeholder",
+      "x": 364,
+      "y": 185
+    },
+    {
+      "name": "Zambia Landmark 4",
+      "type": "placeholder",
+      "x": 308,
+      "y": 368
+    },
+    {
+      "name": "Zambia Landmark 5",
+      "type": "placeholder",
+      "x": 395,
+      "y": 363
+    }
+  ]
+}

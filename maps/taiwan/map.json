@@ -1,0 +1,44 @@
+{
+  "country": "Taiwan",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Taiwan Landmark 1",
+      "type": "placeholder",
+      "x": 361,
+      "y": 238
+    },
+    {
+      "name": "Taiwan Landmark 2",
+      "type": "placeholder",
+      "x": 315,
+      "y": 145
+    },
+    {
+      "name": "Taiwan Landmark 3",
+      "type": "placeholder",
+      "x": 250,
+      "y": 164
+    },
+    {
+      "name": "Taiwan Landmark 4",
+      "type": "placeholder",
+      "x": 259,
+      "y": 268
+    },
+    {
+      "name": "Taiwan Landmark 5",
+      "type": "placeholder",
+      "x": 250,
+      "y": 340
+    }
+  ]
+}

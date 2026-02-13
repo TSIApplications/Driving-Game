@@ -1,0 +1,44 @@
+{
+  "country": "United States of America",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "United States of America Landmark 1",
+      "type": "placeholder",
+      "x": 359,
+      "y": 291
+    },
+    {
+      "name": "United States of America Landmark 2",
+      "type": "placeholder",
+      "x": 205,
+      "y": 138
+    },
+    {
+      "name": "United States of America Landmark 3",
+      "type": "placeholder",
+      "x": 155,
+      "y": 266
+    },
+    {
+      "name": "United States of America Landmark 4",
+      "type": "placeholder",
+      "x": 365,
+      "y": 159
+    },
+    {
+      "name": "United States of America Landmark 5",
+      "type": "placeholder",
+      "x": 162,
+      "y": 289
+    }
+  ]
+}

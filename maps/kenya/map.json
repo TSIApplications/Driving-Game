@@ -1,0 +1,44 @@
+{
+  "country": "Kenya",
+  "terrain": "urban",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Kenya Landmark 1",
+      "type": "placeholder",
+      "x": 256,
+      "y": 345
+    },
+    {
+      "name": "Kenya Landmark 2",
+      "type": "placeholder",
+      "x": 277,
+      "y": 149
+    },
+    {
+      "name": "Kenya Landmark 3",
+      "type": "placeholder",
+      "x": 338,
+      "y": 141
+    },
+    {
+      "name": "Kenya Landmark 4",
+      "type": "placeholder",
+      "x": 318,
+      "y": 167
+    },
+    {
+      "name": "Kenya Landmark 5",
+      "type": "placeholder",
+      "x": 312,
+      "y": 136
+    }
+  ]
+}

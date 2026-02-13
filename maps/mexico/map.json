@@ -1,0 +1,44 @@
+{
+  "country": "Mexico",
+  "terrain": "mountain",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Mexico Landmark 1",
+      "type": "placeholder",
+      "x": 307,
+      "y": 331
+    },
+    {
+      "name": "Mexico Landmark 2",
+      "type": "placeholder",
+      "x": 225,
+      "y": 298
+    },
+    {
+      "name": "Mexico Landmark 3",
+      "type": "placeholder",
+      "x": 247,
+      "y": 338
+    },
+    {
+      "name": "Mexico Landmark 4",
+      "type": "placeholder",
+      "x": 247,
+      "y": 361
+    },
+    {
+      "name": "Mexico Landmark 5",
+      "type": "placeholder",
+      "x": 165,
+      "y": 228
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "Democratic People's Republic of Korea",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Democratic People's Republic of Korea Landmark 1",
+      "type": "placeholder",
+      "x": 161,
+      "y": 268
+    },
+    {
+      "name": "Democratic People's Republic of Korea Landmark 2",
+      "type": "placeholder",
+      "x": 143,
+      "y": 128
+    },
+    {
+      "name": "Democratic People's Republic of Korea Landmark 3",
+      "type": "placeholder",
+      "x": 219,
+      "y": 350
+    },
+    {
+      "name": "Democratic People's Republic of Korea Landmark 4",
+      "type": "placeholder",
+      "x": 278,
+      "y": 219
+    },
+    {
+      "name": "Democratic People's Republic of Korea Landmark 5",
+      "type": "placeholder",
+      "x": 175,
+      "y": 235
+    }
+  ]
+}

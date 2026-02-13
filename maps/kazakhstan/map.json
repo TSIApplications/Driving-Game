@@ -1,0 +1,44 @@
+{
+  "country": "Kazakhstan",
+  "terrain": "coastal",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Kazakhstan Landmark 1",
+      "type": "placeholder",
+      "x": 257,
+      "y": 312
+    },
+    {
+      "name": "Kazakhstan Landmark 2",
+      "type": "placeholder",
+      "x": 183,
+      "y": 261
+    },
+    {
+      "name": "Kazakhstan Landmark 3",
+      "type": "placeholder",
+      "x": 187,
+      "y": 265
+    },
+    {
+      "name": "Kazakhstan Landmark 4",
+      "type": "placeholder",
+      "x": 326,
+      "y": 223
+    },
+    {
+      "name": "Kazakhstan Landmark 5",
+      "type": "placeholder",
+      "x": 310,
+      "y": 220
+    }
+  ]
+}

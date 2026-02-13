@@ -1,0 +1,44 @@
+{
+  "country": "Singapore",
+  "terrain": "plains",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Singapore Landmark 1",
+      "type": "placeholder",
+      "x": 341,
+      "y": 229
+    },
+    {
+      "name": "Singapore Landmark 2",
+      "type": "placeholder",
+      "x": 356,
+      "y": 149
+    },
+    {
+      "name": "Singapore Landmark 3",
+      "type": "placeholder",
+      "x": 317,
+      "y": 270
+    },
+    {
+      "name": "Singapore Landmark 4",
+      "type": "placeholder",
+      "x": 344,
+      "y": 285
+    },
+    {
+      "name": "Singapore Landmark 5",
+      "type": "placeholder",
+      "x": 385,
+      "y": 243
+    }
+  ]
+}

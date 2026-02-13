@@ -1,0 +1,44 @@
+{
+  "country": "Slovakia",
+  "terrain": "desert",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Slovakia Landmark 1",
+      "type": "placeholder",
+      "x": 302,
+      "y": 354
+    },
+    {
+      "name": "Slovakia Landmark 2",
+      "type": "placeholder",
+      "x": 191,
+      "y": 252
+    },
+    {
+      "name": "Slovakia Landmark 3",
+      "type": "placeholder",
+      "x": 364,
+      "y": 167
+    },
+    {
+      "name": "Slovakia Landmark 4",
+      "type": "placeholder",
+      "x": 285,
+      "y": 242
+    },
+    {
+      "name": "Slovakia Landmark 5",
+      "type": "placeholder",
+      "x": 353,
+      "y": 287
+    }
+  ]
+}

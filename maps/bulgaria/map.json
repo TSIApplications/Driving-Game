@@ -1,0 +1,44 @@
+{
+  "country": "Bulgaria",
+  "terrain": "forest",
+  "size": [
+    2400,
+    1400
+  ],
+  "spawn": [
+    200.0,
+    200.0
+  ],
+  "landmarks": [
+    {
+      "name": "Bulgaria Landmark 1",
+      "type": "placeholder",
+      "x": 242,
+      "y": 304
+    },
+    {
+      "name": "Bulgaria Landmark 2",
+      "type": "placeholder",
+      "x": 247,
+      "y": 360
+    },
+    {
+      "name": "Bulgaria Landmark 3",
+      "type": "placeholder",
+      "x": 380,
+      "y": 189
+    },
+    {
+      "name": "Bulgaria Landmark 4",
+      "type": "placeholder",
+      "x": 288,
+      "y": 236
+    },
+    {
+      "name": "Bulgaria Landmark 5",
+      "type": "placeholder",
+      "x": 250,
+      "y": 256
+    }
+  ]
+}
